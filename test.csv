@@ -1,0 +1,133 @@
+ObservationId,MediaId,Vote,Content,ClassId,Family,Genus,Species,Author,Date,Location,Latitude,Longitude,YearInCLEF,ObservationId2014,ImageId2014,LearnTag
+28597,4,,Entire,,,,,francois meignant,2009-4-24,Deuxnouds-aux-Bois,48.99268,5.63084,PlantCLEF2015,,,Test
+8602,6,,Flower,,,,,alain bigou,2008-7-6,Vieille-Aure,42.8426,0.15311,PlantCLEF2015,,,Test
+24929,12,,Flower,,,,,marie portas,2013-5-25,Mirabel,,,PlantCLEF2015,,,Test
+27945,14,,Entire,,,,,pol califice,2013-9-13,,42.57611,1.97198,PlantCLEF2015,,,Test
+4920,15,,Fruit,,,,,pierre bonnet,2014-5-1,Montpellier,43.59918,3.89818,PlantCLEF2015,,,Test
+37368,20,,Entire,,,,,bertrand bui,2011-12-2,Paris,,,PlantCLEF2015,,,Test
+5364,24,,Entire,,,,,marc chouillou,2012-8-4,Les Salces,44.56567,3.11887,PlantCLEF2015,,,Test
+11824,28,,Entire,,,,,daniel mathieu,2009-8-5,Loctudy,,,PlantCLEF2015,,,Test
+8795,29,,Leaf,,,,,stephanie bodin,2014-4-13,,,,PlantCLEF2015,,,Test
+34259,30,,Leaf,,,,,mathieu menand,2011-4-7,Villaudric,,,PlantCLEF2015,,,Test
+23886,33,,Entire,,,,,alain bigou,2008-7-14,Olette,42.62596,2.22184,PlantCLEF2015,,,Test
+26182,35,,Flower,,,,,jean-claude calais,2014-6-27,Marvejols,44.56473,3.30682,PlantCLEF2015,,,Test
+17692,37,,Leaf,,,,,bigotte jean,2014-5-7,Gardanne,43.4526,5.47174,PlantCLEF2015,,,Test
+25916,42,,Entire,,,,,juliemouni,2014-8-2,Sciez,46.33143,6.37462,PlantCLEF2015,,,Test
+27880,43,,LeafScan,,,,,liliane roubaudi,2014-8-9,Chamonix-Mont-Blanc,,,PlantCLEF2015,,,Test
+40235,45,,Flower,,,,,ans gorter,2014-8-12,Cubjac,45.22136,0.93806,PlantCLEF2015,,,Test
+33961,51,,Fruit,,,,,liliane roubaudi,2014-9-25,Fleury,,,PlantCLEF2015,,,Test
+34951,59,,Flower,,,,,jean-luc gorremans,2014-7-1,Bellerive-sur-Allier,46.09905,3.4029,PlantCLEF2015,,,Test
+15159,62,,Flower,,,,,francoise carle,2001-8-30,Amiens,49.89407,2.29575,PlantCLEF2015,,,Test
+22235,65,,Entire,,,,,dominique remaud,2014-5-3,Saint-Martin-la-Garenne,49.04083,1.69055,PlantCLEF2015,,,Test
+18804,76,,Flower,,,,,hugues tinguy,2013-6-14,Lioux,,,PlantCLEF2015,,,Test
+13877,83,,Flower,,,,,augustin roche,2004-3-6,Angers,47.48281,-0.60303,PlantCLEF2015,,,Test
+36639,85,,Fruit,,,,,mathieu menand,2009-7-19,Finlande,,,PlantCLEF2015,,,Test
+19981,100,,Branch,,,,,john de vos,2014-5-31,Rouet,43.82176,3.79836,PlantCLEF2015,,,Test
+1343,108,,Branch,,,,,marie portas,2014-9-22,Sisteron,,,PlantCLEF2015,,,Test
+16184,111,,Fruit,,,,,laurence fayet,2013-7-11,Les Orres,44.46267,6.56708,PlantCLEF2015,,,Test
+30672,115,,Flower,,,,,ktsuperplan,2014-6-17,Lançon-Provence,43.59335,5.1127,PlantCLEF2015,,,Test
+41352,139,,Fruit,,,,,alain bigou,2008-9-11,Barèges,42.89669,0.10252,PlantCLEF2015,,,Test
+34200,142,,Flower,,,,,thierry ravayrol,2014-7-11,Montfaucon,44.68345,1.56411,PlantCLEF2015,,,Test
+41189,146,,Leaf,,,,,herve goeau,2014-5-10,Doizieux,45.43079,4.62143,PlantCLEF2015,,,Test
+14943,150,,Entire,,,,,bizzbille,2014-5-25,Québec,46.81001,-71.29261,PlantCLEF2015,,,Test
+18403,159,,Flower,,,,,alain letrange,2008-3-1,Alos-Sibas-Abense,,,PlantCLEF2015,,,Test
+24379,165,,Flower,,,,,benjamin deslandes,2008-5-3,Tilly-sur-Seulles,48.97944,-0.23389,PlantCLEF2015,,,Test
+39240,166,,Branch,,,,,jean-claude calais,2014-8-14,Ispagnac,44.4083,3.58077,PlantCLEF2015,,,Test
+9252,168,,Flower,,,,,paul fabre,2011-5-1,Les Assions,44.43021,4.15998,PlantCLEF2015,,,Test
+38039,175,,Entire,,,,,liliane roubaudi,2014-8-18,Vallorcine,,,PlantCLEF2015,,,Test
+34927,191,,Entire,,,,,marlene null,2011-8-10,Saint-Bon-Tarentaise,45.35951,6.67776,PlantCLEF2015,,,Test
+7757,195,,Leaf,,,,,mathieu menand,2007-10-11,Saint-Élix-le-Château,,,PlantCLEF2015,,,Test
+5932,198,,Flower,,,,,iris28,2014-8-27,Salers,45.13785,2.49381,PlantCLEF2015,,,Test
+10885,202,,Flower,,,,,mathieu menand,2010-7-15,Porté-Puymorens,,,PlantCLEF2015,,,Test
+8980,203,,Entire,,,,,jean-luc gorremans,2013-4-7,Champcueil,48.5017,2.46378,PlantCLEF2015,,,Test
+946,205,,Flower,,,,,mathieu menand,2006-5-27,Le Château-d'Oléron,,,PlantCLEF2015,,,Test
+21826,210,,Flower,,,,,jean-claude calais,2013-7-14,Lachamp,44.5907,3.37516,PlantCLEF2015,,,Test
+13116,216,,Leaf,,,,,margot,2014-6-12,Fajac-en-Val,43.11923,2.45945,PlantCLEF2015,,,Test
+12174,222,,Fruit,,,,,marie portas,2014-9-5,Saint-Laurent-de-la-Prée,,,PlantCLEF2015,,,Test
+26277,230,,Flower,,,,,liliane roubaudi,2014-4-12,Meyzieu,,,PlantCLEF2015,,,Test
+19391,232,,Leaf,,,,,thierry pernot,1800-1-1,,,,PlantCLEF2015,,,Test
+33364,235,,Fruit,,,,,madeleine sarran,2011-5-11,Sisteron,,,PlantCLEF2015,,,Test
+28821,237,,Stem,,,,,herve goeau,2014-9-24,Essey-lès-Nancy,48.71181,6.24899,PlantCLEF2015,,,Test
+39955,248,,Flower,,,,,paul fabre,2014-7-26,Prades-le-Lez,43.72234,3.86678,PlantCLEF2015,,,Test
+33153,253,,Entire,,,,,genevieve botti,2014-4-25,Nans-les-Pins,,,PlantCLEF2015,,,Test
+21321,254,,Branch,,,,,luc nodral,2014-5-26,Villeneuve-d'Ascq,50.63091,3.15266,PlantCLEF2015,,,Test
+6289,256,,Flower,,,,,dominique remaud,2014-5-3,Saint-Martin-la-Garenne,49.04083,1.69055,PlantCLEF2015,,,Test
+37385,257,,Branch,,,,,patrick berniard,2014-4-30,,48.83369,2.44363,PlantCLEF2015,,,Test
+25819,261,,Flower,,,,,genevieve botti,2014-1-10,Plan-d'Aups-Sainte-Baume,,,PlantCLEF2015,,,Test
+11640,262,,Flower,,,,,alain bigou,2009-9-13,Naut Aran,42.63052,0.85015,PlantCLEF2015,,,Test
+39094,269,,Branch,,,,,anny raim,2014-8-11,Saou,44.64975,5.07449,PlantCLEF2015,,,Test
+33310,279,,Entire,,,,,nicolas suberbielle,2014-4-2,Corte,42.28718,9.21908,PlantCLEF2015,,,Test
+40840,296,,Flower,,,,,alain letrange,2003-3-25,Aussurucq,,,PlantCLEF2015,,,Test
+2978,308,,Entire,,,,,daniel mathieu,2009-4-19,Avignon,43.98939,4.82574,PlantCLEF2015,,,Test
+41779,323,,Entire,,,,,liliane roubaudi,2000-10-8,Trans-en-Provence,,,PlantCLEF2015,,,Test
+17232,327,,LeafScan,,,,,liliane roubaudi,2014-1-4,Fleury,,,PlantCLEF2015,,,Test
+8046,345,,Flower,,,,,liliane roubaudi,2014-7-6,Pompiery,,,PlantCLEF2015,,,Test
+17825,350,,Flower,,,,,cecile garin,2014-9-21,Aix-en-Provence,43.53414,5.44546,PlantCLEF2015,,,Test
+36522,353,,Entire,,,,,jean-claude echardour,2014-6-8,Saffré,47.49694,-1.59482,PlantCLEF2015,,,Test
+41249,357,,Branch,,,,,marie portas,2011-4-22,Duilhac-sous-Peyrepertuse,42.86867,2.56059,PlantCLEF2015,,,Test
+36016,371,,Entire,,,,,david mercier,2011-7-5,Saint-Christophe-du-Bois,,,PlantCLEF2015,,,Test
+27329,372,,Flower,,,,,charlene ho,2014-7-17,Vielle-Aure,42.82695,0.32657,PlantCLEF2015,,,Test
+38797,374,,Flower,,,,,hugues tinguy,2013-7-6,Belmont,,,PlantCLEF2015,,,Test
+9869,375,,Flower,,,,,michalak,2014-5-21,Бортал / 昭苏县 / Bole,43.01594,81.2374,PlantCLEF2015,,,Test
+3158,380,,Leaf,,,,,julien champ,2014-11-20,Montpellier,43.63952,3.84303,PlantCLEF2015,,,Test
+34973,389,,Entire,,,,,benjamin deslandes,2013-4-27,Formentin,49.2017,0.14644,PlantCLEF2015,,,Test
+10788,395,,Flower,,,,,archicrepe,2014-5-1,,,,PlantCLEF2015,,,Test
+22257,399,,Leaf,,,,,porcher,2014-6-17,Agonac,45.27005,0.77121,PlantCLEF2015,,,Test
+19202,404,,Flower,,,,,herve goeau,2014-8-16,Mayres-Savel,44.87217,5.70552,PlantCLEF2015,,,Test
+23170,406,,Branch,,,,,bruno stien,2012-7-22,Soupir,49.40005,3.59864,PlantCLEF2015,,,Test
+11966,415,,Fruit,,,,,liliane roubaudi,2014-5-18,Gruissan,,,PlantCLEF2015,,,Test
+5416,416,,Flower,,,,,harkinah,2014-3-11,Santosse,47.00638,4.63013,PlantCLEF2015,,,Test
+2002,418,,Entire,,,,,elzbieta jatowt-lombaert,2007-6-10,Luzarches,49.12557,2.46609,PlantCLEF2015,,,Test
+16116,419,,Flower,,,,,antoine affouard,2014-3-10,Clapiers,43.64828,3.88693,PlantCLEF2015,,,Test
+9980,422,,Entire,,,,,francoise carle,2013-11-10,Conty,49.74062,2.15248,PlantCLEF2015,,,Test
+602,431,,Flower,,,,,henri scordia,2014-6-22,Boncourt,48.83979,1.45584,PlantCLEF2015,,,Test
+17381,434,,Flower,,,,,nicolas sennavoine,2013-2-20,Saint-André-du-Bois,44.6169,-0.17016,PlantCLEF2015,,,Test
+22674,435,,Entire,,,,,gael gicquiaud,1800-1-1,Redon,47.65401,-2.08953,PlantCLEF2015,,,Test
+26186,438,,Entire,,,,,jeannine nicolas,2014-2-2,Aix-en-Provence,43.52834,5.45368,PlantCLEF2015,,,Test
+7689,441,,Flower,,,,,jennifer,2014-3-13,,43.60519,3.86941,PlantCLEF2015,,,Test
+34262,444,,Entire,,,,,alain bigou,2004-8-20,Quillan,42.87124,2.13661,PlantCLEF2015,,,Test
+15263,454,,Entire,,,,,jacques marechal,2013-7-11,La Chapelle-St-Mesmin(45),47.88671,1.80717,PlantCLEF2015,,,Test
+6462,458,,Entire,,,,,jean-pierre cazes,2009-6-13,Erdeven,47.62231,-3.19024,PlantCLEF2015,,,Test
+37913,469,,Flower,,,,,alexis joly,2014-3-13,Montpellier,43.63783,3.83629,PlantCLEF2015,,,Test
+19626,472,,Branch,,,,,liliane roubaudi,2014-7-26,Padern,,,PlantCLEF2015,,,Test
+10929,484,,Entire,,,,,ans gorter,2013-8-19,Saint-Jacques-des-Blats,45.08333,2.73333,PlantCLEF2015,,,Test
+4199,487,,Entire,,,,,jacques marechal,2013-9-8,Chaingy,47.89976,1.7823,PlantCLEF2015,,,Test
+21503,494,,Fruit,,,,,pat desnos,2013-8-23,Vénosc,44.95589,6.09916,PlantCLEF2015,,,Test
+3120,496,,Entire,,,,,genevieve botti,2014-4-25,Nans-les-Pins,,,PlantCLEF2015,,,Test
+7306,513,,Entire,,,,,genevieve botti,2014-2-9,Marseille,,,PlantCLEF2015,,,Test
+35089,516,,Entire,,,,,sarah lavaux,2014-5-3,Saint-Denis,48.91444,2.35171,PlantCLEF2015,,,Test
+34687,521,,Flower,,,,,marie-france petibon,2014-5-10,Belfort-du-Quercy,44.26841,1.54303,PlantCLEF2015,,,Test
+33926,532,,Flower,,,,,jot r,2014-4-27,Elbląg,54.16047,19.39808,PlantCLEF2015,,,Test
+16589,533,,Fruit,,,,,paul fabre,2012-9-30,Les Assions,44.42967,4.16081,PlantCLEF2015,,,Test
+17159,535,,Branch,,,,,francoise carle,2011-5-30,,50.36783,1.40707,PlantCLEF2015,,,Test
+40798,551,,Leaf,,,,,antoine affouard,2014-8-17,Montpellier,43.61077,3.87672,PlantCLEF2015,,,Test
+24640,553,,Flower,,,,,jame lagarrigue,2014-5-26,Poulx,43.91703,4.43681,PlantCLEF2015,,,Test
+28332,555,,Leaf,,,,,herve goeau,2012-11-26,St Leu Les brules de St Leu,-21.10527,55.38092,PlantCLEF2015,,,Test
+28780,557,,Branch,,,,,swingmarie,2014-5-28,Rochefort-sur-Loire,47.35761,-0.6561,PlantCLEF2015,,,Test
+31789,564,,Flower,,,,,jacques marechal,2013-7-10,La Chapelle-Saint-Mesmin,47.88976,1.80603,PlantCLEF2015,,,Test
+12554,569,,Branch,,,,,liliane roubaudi,2014-4-29,Crète,,,PlantCLEF2015,,,Test
+40189,573,,Branch,,,,,tela botanica tela botanica,2014-10-4,Montpellier,43.64787,3.88069,PlantCLEF2015,,,Test
+38810,580,,Leaf,,,,,herve goeau,2014-5-29,Giverny,49.07533,1.53332,PlantCLEF2015,,,Test
+20169,582,,Stem,,,,,liliane roubaudi,2014-2-12,Lyon,,,PlantCLEF2015,,,Test
+2501,583,,Entire,,,,,laurent chauvel,2013-6-2,Callac,,,PlantCLEF2015,,,Test
+41054,594,,Branch,,,,,maelmagnus,2014-5-3,La Rochelle,46.15641,-1.17125,PlantCLEF2015,,,Test
+22905,595,,Branch,,,,,liliane roubaudi,2014-3-13,Clermont-l'Hérault,,,PlantCLEF2015,,,Test
+27572,600,,Flower,,,,,liliane roubaudi,2014-4-12,Meyzieu,,,PlantCLEF2015,,,Test
+21996,612,,Branch,,,,,catherine mahyeux,2010-5-30,Dordives,,,PlantCLEF2015,,,Test
+8121,620,,Flower,,,,,anne billon,2013-4-24,Végennes,44.98143,1.73884,PlantCLEF2015,,,Test
+26575,624,,Branch,,,,,touzene,2014-5-17,Passy,45.9168,6.70431,PlantCLEF2015,,,Test
+20226,626,,Entire,,,,,jean-luc gorremans,2013-6-30,Ballancourt-sur-Essonne,,,PlantCLEF2015,,,Test
+4867,627,,Entire,,,,,vincent jouhet,2012-9-16,Roanne,46.03624,4.0655,PlantCLEF2015,,,Test
+13983,630,,Entire,,,,,benjamin suze,2014-10-23,Rivières,43.92644,1.98815,PlantCLEF2015,,,Test
+838,635,,LeafScan,,,,,hugo santacreu,2014-10-2,Montferrier-sur-Lez,43.652,3.86167,PlantCLEF2015,,,Test
+36809,638,,Flower,,,,,christine blehaut,2012-5-17,Maclas,45.34987,4.70328,PlantCLEF2015,,,Test
+31543,642,,Flower,,,,,johanna forgues,2014-6-18,Ozoir-la-Ferrière,48.76205,2.68998,PlantCLEF2015,,,Test
+9733,646,,Branch,,,,,quentin lebastard,2013-6-1,Sucé-sur-Erdre,47.35215,-1.50915,PlantCLEF2015,,,Test
+31830,650,,Leaf,,,,,herve goeau,2014-5-10,Vienne,45.514,4.88399,PlantCLEF2015,,,Test
+40049,654,,Leaf,,,,,julien champ,2012-11-30,St Denis Bois de Nèfles,-20.93686,55.47179,PlantCLEF2015,,,Test
+11858,671,,Entire,,,,,anne billon,2014-3-12,Beynat,45.12834,1.7103,PlantCLEF2015,,,Test
+17741,678,,Flower,,,,,louise boulangeat,2013-4-11,Montpellier,43.64109,3.84886,PlantCLEF2015,,,Test
+278,684,,Leaf,,,,,gwennaelle gloire,2014-7-23,Pornichet,47.25889,-2.32898,PlantCLEF2015,,,Test
+9462,690,,Flower,,,,,pierre bonnet,2014-2-19,Montpellier,43.59961,3.89941,PlantCLEF2015,,,Test
+15062,693,,Leaf,,,,,genevieve botti,2014-9-5,Montsalvy,,,PlantCLEF2015,,,Test
+16562,696,,Entire,,,,,alain bigou,2008-9-11,Barèges,42.89556,0.10503,PlantCLEF2015,,,Test

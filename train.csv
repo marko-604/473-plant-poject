@@ -1,0 +1,569 @@
+ObservationId,MediaId,Vote,Content,ClassId,Family,Genus,Species,Author,Date,Location,Latitude,Longitude,YearInCLEF,ObservationId2014,ImageId2014,LearnTag
+21782,1,2.5,Entire,5810,Amaryllidaceae,Narcissus,Narcissus dubius Gouan,georges olioso,2013-3-21,La Palme,42.98235,3.01486,PlantCLEF2014,5581,12939,Train
+37497,2,3,Flower,780,Asteraceae,Erigeron,Erigeron karvinskianus DC.,herve goeau,2012-11-26,St Leu Les brules de St Leu,-21.10527,55.38092,PlantCLEF2015,,,Train
+15234,3,2,Entire,6437,Orchidaceae,Dactylorhiza,Dactylorhiza maculata (L.) Soó,jean-luc gorremans,2011-8-8,Pralognan-la-Vanoise,45.39318,6.70084,PlantCLEF2014,7065,20901,Train
+16327,5,2.5,Leaf,112,Apiaceae,Bupleurum,Bupleurum fruticosum L.,genevieve botti,2012-7-25,Marseille,,,PlantCLEF2014,10051,50761,Train
+11372,7,3,Entire,2703,Euphorbiaceae,Euphorbia,Euphorbia flavicoma DC.,liliane roubaudi,1998-5-21,Tuchan,,,PlantCLEF2015,,,Train
+16018,8,3,Entire,6476,Orchidaceae,Neottia,Neottia ovata (L.) Bluff & Fingerh.,jean-jacques houdre,2012-5-9,La Canourgue,44.4425,3.23861,PlantCLEF2014,14613,686,Train
+31741,9,3,Entire,173,Apiaceae,Eryngium,Eryngium maritimum L.,bertrand bui,2011-6-23,Martigues,43.39292,5.33575,ImageCLEF2013,7375,25822,Train
+11786,10,3,Entire,6448,Orchidaceae,Epipactis,Epipactis atrorubens (Hoffm.) Besser,fabienne paire,2014-8-22,Saint-Pierre-de-Chartreuse,45.34137,5.81565,PlantCLEF2015,,,Train
+10533,11,2,Leaf,576,Asteraceae,Cyanus,Cyanus segetum Hill,mathieu sinet,1800-1-1,Montfa,43.70901,2.25134,PlantCLEF2014,11276,57930,Train
+20736,13,1,Stem,14841,Fabaceae,Trifolium,Trifolium subterraneum L.,marie portas,2013-5-24,Saint-Gineis-en-Coiron,,,PlantCLEF2015,,,Train
+8713,16,3,Entire,2692,Euphorbiaceae,Euphorbia,Euphorbia cyparissias L.,jean-luc gorremans,2010-5-30,Draveil,48.65762,2.42839,PlantCLEF2014,15674,24219,Train
+262,17,3,Flower,1901,Campanulaceae,Campanula,Campanula rhomboidalis L.,john de vos,2011-7-29,Le Petit-Bornand-les-Glières,46.0248,6.45867,PlantCLEF2015,,,Train
+32120,18,2.5,Branch,5483,Scrophulariaceae,Verbascum,Verbascum pulverulentum Vill.,genevieve botti,2012-6-25,Amboise,,,ImageCLEF2013,16822,22928,Train
+24285,19,4,Fruit,1235,Asteraceae,Staehelina,Staehelina dubia L.,liliane roubaudi,2014-7-2,Gruissan,,,PlantCLEF2015,,,Train
+2780,21,2,Branch,9954,Geraniaceae,Erodium,Erodium cicutarium (L.) L'Hér.,cecile garin,2014-5-17,Aix-en-Provence,43.53134,5.42388,PlantCLEF2015,,,Train
+40968,22,3,Entire,6535,Orchidaceae,Orchis,Orchis mascula (L.) L.,julien barataud,2008-5-15,Saint-Jean-et-Saint-Paul,,,ImageCLEF2013,7856,23391,Train
+3087,23,2,Flower,5148,Salicaceae,Salix,Salix caprea L.,michel pourchet,2006-3-10,Champ-sur-Drac,,,PlantCLEF2014,324,46860,Train
+1705,25,3,Stem,3798,Magnoliaceae,Magnolia,Magnolia grandiflora L.,pierre bonnet,2011-3-30,Lattes,,,ImageCLEF2013,9481,43558,Train
+20253,26,2.5,Flower,30193,Caprifoliaceae,Knautia,Knautia arvensis (L.) Coult.,audrey maurin,2009-7-11,,49.18398,3.83452,PlantCLEF2014,10380,43231,Train
+13413,27,4,LeafScan,8522,Sapindaceae,Acer,Acer campestre L.,pierre bonnet,2010-6-10,Montpellier,43.60818,3.87945,ImageCLEF2011,10842,53441,Train
+27523,31,4,Leaf,30129,Rhamnaceae,Frangula,Frangula dodonei Ard.,herve goeau,2013-10-12,Fontainebleau,48.43082,2.63908,PlantCLEF2014,15269,56147,Train
+26248,32,2,Entire,8684,Xanthorrhoeaceae,Asphodelus,Asphodelus albus Mill.,marc desquatrevaux,2014-4-26,Lurais,46.68968,0.92636,PlantCLEF2015,,,Train
+29475,34,3,Entire,12625,Brassicaceae,Matthiola,Matthiola sinuata (L.) R.Br.,valerie bruneau-querey,2009-7-13,Sauzon,47.32591,-3.23298,ImageCLEF2013,16718,13256,Train
+31946,36,2,Branch,1321,Betulaceae,Alnus,Alnus glutinosa (L.) Gaertn.,thierry pernot,1800-1-1,,,,PlantCLEF2014,16335,28538,Train
+1878,38,4,LeafScan,5771,Vitaceae,Parthenocissus,Parthenocissus tricuspidata (Siebold & Zucc.) Planch.,alexis joly,2013-8-16,Saint-Georges-d'Orques,43.61017,3.78482,PlantCLEF2014,15736,6315,Train
+25818,39,2,Flower,4010,Oxalidaceae,Oxalis,Oxalis corniculata L.,florent beck,2011-6-25,Joinville-le-Pont,48.81667,2.46667,PlantCLEF2015,,,Train
+2921,40,4.5,LeafScan,3806,Malvaceae,Althaea,Althaea officinalis L.,liliane roubaudi,2013-7-29,Vendres,,,PlantCLEF2015,,,Train
+19035,41,2,Branch,5710,Verbenaceae,Verbena,Verbena officinalis L.,liliane roubaudi,2012-8-30,Le Poujol-sur-Orb,,,ImageCLEF2013,191,13977,Train
+35429,44,3,Flower,6253,Amaryllidaceae,Allium,Allium triquetrum L.,daniel mathieu,2007-4-18,Montpellier,,,ImageCLEF2013,11173,5780,Train
+2711,46,3,Entire,3806,Malvaceae,Althaea,Althaea officinalis L.,augustin roche,2004-8-29,Montchaton,49.0201,-1.50898,PlantCLEF2015,,,Train
+6156,47,4,Branch,4863,Rosaceae,Rosa,Rosa canina L.,julien champ,2013-6-4,Montpellier,,,PlantCLEF2014,13294,30483,Train
+27415,48,4,Flower,5905,Cyperaceae,Carex,Carex flacca Schreb.,john de vos,2013-4-11,Montpellier,43.64151,3.84894,PlantCLEF2015,,,Train
+28836,49,2,Branch,2950,Fabaceae,Lathyrus,Lathyrus latifolius L.,ebe,2014-6-1,Mazaugues,43.36101,5.90727,PlantCLEF2015,,,Train
+472,50,4,LeafScan,30249,Apocynaceae,Nerium,Nerium oleander L.,pierre bonnet,2010-7-7,,43.52872,3.93127,ImageCLEF2011,18717,22606,Train
+12369,52,3,Entire,3956,Oleaceae,Olea,Olea europaea L.,liliane roubaudi,2013-4-13,Trans-en-Provence,,,PlantCLEF2014,1078,54387,Train
+23250,53,3,LeafScan,2918,Fabaceae,Gleditsia,Gleditsia triacanthos L.,herve goeau,2011-9-6,Montferrier-sur-Lez,43.65146,3.86189,ImageCLEF2012,10792,33353,Train
+13423,54,4,Leaf,14920,Violaceae,Viola,Viola riviniana Rchb.,jean-jacques houdre,2013-5-2,Saint-Héand,,,PlantCLEF2014,9152,45071,Train
+18698,55,3,Entire,1234,Asteraceae,Sonchus,Sonchus tenerrimus L.,Unknown701,2013-4-4,Montpellier,43.62169,3.85918,PlantCLEF2015,,,Train
+14443,56,3,Flower,2872,Fabaceae,Cytisus,Cytisus scoparius (L.) Link,michel pourchet,2006-5-17,Juillac,,,PlantCLEF2014,16591,33275,Train
+11108,57,3,Fruit,7288,Pinaceae,Pinus,Pinus sylvestris L.,daniel barthelemy,2010-7-4,Rosier Peyrelaud,,,PlantCLEF2014,14472,10310,Train
+7346,58,3,Branch,1914,Campanulaceae,Jasione,Jasione montana L.,laurent chauvel,1800-1-1,Guidel,,,PlantCLEF2015,,,Train
+33387,60,3,LeafScan,54,Anacardiaceae,Cotinus,Cotinus coggygria Scop.,annick larbouillat,2011-11-1,Ozoir-la-Ferrière,48.77255,2.65792,ImageCLEF2012,11229,3623,Train
+7513,61,3,Leaf,8775,Betulaceae,Betula,Betula utilis D.Don,vera bakic,2012-9-10,Rocquencourt,48.84403,2.3598,ImageCLEF2013,13087,54525,Train
+7601,63,4,Flower,1889,Campanulaceae,Campanula,Campanula latifolia L.,genevieve botti,2014-7-11,Italie,,,PlantCLEF2015,,,Train
+19554,64,3,Flower,1147,Asteraceae,Jacobaea,Jacobaea adonidifolia (Loisel.) Mérat,paul fabre,2013-7-11,Sablières,,,PlantCLEF2015,,,Train
+29013,66,3,LeafScan,1972,Adoxaceae,Viburnum,Viburnum opulus L.,annick larbouillat,2011-10-23,Pontault-Combault,48.78613,2.62331,ImageCLEF2012,7800,51935,Train
+26205,67,3,LeafScan,8522,Sapindaceae,Acer,Acer campestre L.,herve goeau,2011-9-6,Montferrier-sur-Lez,43.65146,3.86189,ImageCLEF2013,16019,43684,Train
+25133,68,4,LeafScan,3849,Moraceae,Morus,Morus alba L.,daniel barthelemy,2011-10-12,Monferrier,,,ImageCLEF2012,545,3822,Train
+23064,69,3.5,Fruit,5570,Solanaceae,Solanum,Solanum dulcamara L.,liliane roubaudi,2013-8-13,Nantua,,,PlantCLEF2014,15019,13840,Train
+34896,70,3,Flower,4236,Polygonaceae,Persicaria,Persicaria maculosa Gray,pascal bergeot,2013-8-12,Changé,,,PlantCLEF2015,,,Train
+3465,71,3,Flower,1468,Brassicaceae,Alliaria,Alliaria petiolata (M.Bieb.) Cavara & Grande,mathieu menand,2006-3-26,Bruges,,,PlantCLEF2014,11629,53325,Train
+491,72,3,Flower,30423,Plantaginaceae,Veronica,Veronica chamaedrys L.,claire sutter,2009-5-2,Fort-Louis,48.80822,8.08928,PlantCLEF2014,16390,7607,Train
+30244,73,3,Fruit,4074,Pittosporaceae,Pittosporum,Pittosporum tobira (Thunb.) W.T.Aiton,pierre bonnet,1800-1-1,Palavas-les-Flots,,,PlantCLEF2014,7000,53966,Train
+27420,74,2.5,Entire,3288,Fagaceae,Quercus,Quercus ilex L.,herve goeau,2012-4-19,Saint-Nazaire-d'Aude,,,PlantCLEF2014,4297,46516,Train
+32636,75,1,Leaf,4948,Rosaceae,Rubus,Rubus pedatifolius Genév.,david mercier,2014-6-8,Espagne,43.33188,-1.76547,PlantCLEF2015,,,Train
+14313,77,3,Leaf,1212,Asteraceae,Silybum,Silybum marianum (L.) Gaertn.,pierre bonnet,2013-5-1,Montpellier,,,PlantCLEF2014,6405,16253,Train
+41340,78,3,Flower,1842,Buxaceae,Buxus,Buxus sempervirens L.,michel pourchet,2006-3-27,Champ-sur-Drac,,,PlantCLEF2014,798,2329,Train
+37911,79,3,Entire,7429,Lycopodiaceae,Diphasiastrum,Diphasiastrum tristachyum (Pursh) Holub,christophe girod,1800-1-1,Chaume des Veaux près du Champ du Feu,,,PlantCLEF2015,,,Train
+29777,80,3,Stem,5634,Cannabaceae,Celtis,Celtis australis L.,pierre bonnet,2011-4-23,Lattes,,,ImageCLEF2013,9151,34959,Train
+1011,81,4,Flower,3831,Malvaceae,Malva,Malva sylvestris L.,herve goeau,2013-8-21,Saint-Michel-sur-Orge,48.64051,2.30913,PlantCLEF2014,18480,50262,Train
+10449,82,3,Leaf,30122,Fagaceae,Fagus,Fagus sylvatica L.,anne verroust,2012-9-10,Rocquencourt,48.83034,2.11229,ImageCLEF2013,18963,7147,Train
+2303,84,4,Stem,4742,Rosaceae,Filipendula,Filipendula vulgaris Moench,thierry pernot,1800-1-1,,,,PlantCLEF2015,,,Train
+41681,86,3,Leaf,8167,Sapindaceae,Acer,Acer palmatum Thunb.,julien champ,2013-6-1,Saint-Jean-de-Védas,,,PlantCLEF2014,5902,51535,Train
+4411,87,5,Flower,1895,Campanulaceae,Campanula,Campanula persicifolia L.,thierry pernot,1800-1-1,,,,PlantCLEF2014,12127,6695,Train
+30592,88,3,Stem,3288,Fagaceae,Quercus,Quercus ilex L.,souheil selmi,2012-9-10,Rocquencourt,,,ImageCLEF2013,17216,39703,Train
+28036,89,4,Leaf,329,Araliaceae,Hedera,Hedera helix L.,pierre bonnet,2012-3-21,montpellier,,,ImageCLEF2013,3456,37174,Train
+2116,90,4,Leaf,30460,Geraniaceae,Geranium,Geranium molle L.,herve goeau,2013-5-19,Besse,,,PlantCLEF2014,4183,40112,Train
+3371,91,2,Entire,14563,Asteraceae,Sonchus,Sonchus asper (L.) Hill,laurent lemetais,2014-10-27,Gamaches-en-Vexin,49.26641,1.60119,PlantCLEF2015,,,Train
+7554,92,3,Stem,14572,Rosaceae,Sorbus,Sorbus intermedia (Ehrh.) Pers.,anne verroust,2012-9-10,Rocquencourt,48.83034,2.11229,ImageCLEF2013,2870,41841,Train
+8092,93,3,Flower,29924,Sapindaceae,Acer,Acer negundo L.,pierre bonnet,2012-3-28,Montpellier,,,ImageCLEF2013,1306,44362,Train
+13396,94,2,Entire,30457,Papaveraceae,Fumaria,Fumaria capreolata L.,liliane roubaudi,2012-3-21,Carantec,,,PlantCLEF2015,,,Train
+4372,95,3,Leaf,3124,Fabaceae,Robinia,Robinia pseudoacacia L.,pierre bonnet,2010-11-8,Montpellier,,,ImageCLEF2011,4404,13761,Train
+17502,96,2,Leaf,4827,Rosaceae,Prunus,Prunus avium (L.) L.,vera bakic,2011-4-21,Rocquencourt,48.84403,2.3598,ImageCLEF2013,9242,9286,Train
+13987,97,5,Fruit,2988,Fabaceae,Lotus,Lotus corniculatus L.,bertrand bui,2013-5-15,Martigues,43.39967,5.34849,PlantCLEF2015,,,Train
+19350,98,4,LeafScan,1973,Adoxaceae,Viburnum,Viburnum tinus L.,pierre bonnet,2010-7-7,Montpellier,43.60818,3.87945,ImageCLEF2011,4133,1554,Train
+23029,99,2,Flower,2724,Euphorbiaceae,Euphorbia,Euphorbia paralias L.,herve goeau,2014-5-3,Treigny,47.52772,3.15879,PlantCLEF2015,,,Train
+38075,101,3,Flower,30718,Gentianaceae,Gentiana,Gentiana lutea L.,john de vos,2006-7-5,Mont-Saxonnex,46.0237,6.49125,PlantCLEF2014,13859,21841,Train
+33300,102,2,Flower,5311,Plantaginaceae,Chaenorrhinum,Chaenorrhinum minus (L.) Lange,francoise carle,2014-7-22,Saint-Martial,44.84389,4.22,PlantCLEF2015,,,Train
+14700,103,1,Branch,661,Asteraceae,Cichorium,Cichorium intybus L.,pierre bonnet,2013-11-28,Montpellier,,,PlantCLEF2014,17382,5333,Train
+39107,104,4,Flower,3591,Lamiaceae,Mentha,Mentha spicata L.,herve goeau,2013-8-5,Sainte-Geneviève-des-Bois,48.64647,2.3178,PlantCLEF2014,8527,13899,Train
+13428,105,3,Flower,3567,Lamiaceae,Lamium,Lamium maculatum (L.) L.,emmanuel stratmains,2012-4-9,Le Muy,43.45818,6.59686,PlantCLEF2014,7328,22545,Train
+9525,106,4,Flower,1102,Asteraceae,Picris,Picris hieracioides L.,alain bigou,2014-8-16,Castelnau-de-Montmiral,44.00857,1.74461,PlantCLEF2015,,,Train
+40025,107,2,Branch,4489,Ranunculaceae,Ranunculus,Ranunculus aconitifolius L.,thierry pernot,1800-1-1,,,,PlantCLEF2015,,,Train
+27943,109,1,Flower,30388,Caryophyllaceae,Stellaria,Stellaria media (L.) Vill.,jean-luc gorremans,2010-4-10,Athis-Mons,48.70304,2.38058,PlantCLEF2015,,,Train
+14269,110,3,Flower,4031,Papaveraceae,Corydalis,Corydalis solida (L.) Clairv.,jean-paul hugbart,2014-3-8,Dracy-le-Fort,46.80012,4.75236,PlantCLEF2015,,,Train
+34737,112,3,Flower,1770,Brassicaceae,Raphanus,Raphanus raphanistrum L.,hugues tinguy,2011-7-21,Ploudalmézeau,,,PlantCLEF2014,13188,29546,Train
+21731,113,5,Leaf,3806,Malvaceae,Althaea,Althaea officinalis L.,genevieve botti,2013-6-1,Gruissan,43.22236,5.62321,PlantCLEF2015,,,Train
+31930,114,3,Branch,14779,Lamiaceae,Teucrium,Teucrium flavum L.,liliane roubaudi,2014-4-6,Saint-Remèze,,,PlantCLEF2015,,,Train
+21870,116,2,Flower,187,Apiaceae,Heracleum,Heracleum sphondylium L.,benjamin suze,1800-1-1,,,,PlantCLEF2015,,,Train
+26292,117,1,Stem,5537,Simaroubaceae,Ailanthus,Ailanthus altissima (Mill.) Swingle,etudiants supagro,2013-1-22,Montpellier,43.63113,3.89212,PlantCLEF2014,3910,24438,Train
+35947,118,1,Leaf,14872,Ulmaceae,Ulmus,Ulmus minor Mill.,thierry pernot,1800-1-1,,,,PlantCLEF2014,16234,30416,Train
+17426,119,4,Leaf,1468,Brassicaceae,Alliaria,Alliaria petiolata (M.Bieb.) Cavara & Grande,herve goeau,2013-4-23,Rocquencourt,,,PlantCLEF2014,7959,34248,Train
+6279,120,3,Fruit,5098,Rubiaceae,Rubia,Rubia tinctorum L.,liliane roubaudi,2013-9-13,Fleury,,,PlantCLEF2015,,,Train
+34361,121,3,Leaf,4739,Rosaceae,Eriobotrya,Eriobotrya japonica (Thunb.) Lindl.,pierre bonnet,2012-11-29,Les Avirons,-21.24064,55.3342,PlantCLEF2015,,,Train
+16856,122,4,LeafScan,30040,Fabaceae,Cercis,Cercis siliquastrum L.,pierre bonnet,2010-7-6,Montpellier,43.60818,3.87945,ImageCLEF2011,2364,41361,Train
+22692,123,3.5,Fruit,4738,Rosaceae,Potentilla,Potentilla indica (Andrews) F.T.Wolf,mathieu menand,2009-6-15,Madère,,,PlantCLEF2015,,,Train
+20192,124,3,Leaf,30057,Fabaceae,Coronilla,Coronilla juncea L.,genevieve botti,2013-4-21,Gémenos,43.31317,5.61683,PlantCLEF2015,,,Train
+30502,125,3,Leaf,29939,Betulaceae,Alnus,Alnus cordata (Loisel.) Duby,pierre bonnet,2014-9-25,Amance,48.7513,6.34018,PlantCLEF2015,,,Train
+16928,126,1,Fruit,1973,Adoxaceae,Viburnum,Viburnum tinus L.,genevieve botti,2012-12-16,Marseille,,,ImageCLEF2013,18242,29513,Train
+13675,127,3,Flower,14887,Scrophulariaceae,Verbascum,Verbascum thapsus L.,julien champ,2012-11-26,St Leu Les brules de St Leu,-21.10527,55.38092,PlantCLEF2015,,,Train
+28162,128,3,Entire,3435,Geraniaceae,Geranium,Geranium robertianum L.,alain bigou,2013-8-1,Gavarnie,42.71325,-0.01721,PlantCLEF2014,5883,41713,Train
+22614,129,3,Flower,1111,Asteraceae,Pulicaria,Pulicaria dysenterica (L.) Bernh.,jean-jacques houdre,2011-10-21,Jard-sur-Mer,46.42555,-1.59884,PlantCLEF2014,9548,41266,Train
+25090,130,4,Fruit,4465,Ranunculaceae,Nigella,Nigella damascena L.,ans gorter,2014-5-24,Province de Cadix,41.67142,-0.25414,PlantCLEF2015,,,Train
+36990,131,4,LeafScan,326,Aquifoliaceae,Ilex,Ilex aquifolium L.,pierre bonnet,2010-7-21,Montpellier,43.60818,3.87945,ImageCLEF2011,1701,11142,Train
+665,132,2,Entire,6535,Orchidaceae,Orchis,Orchis mascula (L.) L.,hugues haeffner,2013-4-28,Aillières-Beauvoir,48.40146,0.32049,PlantCLEF2014,6687,8279,Train
+664,133,4,Flower,576,Asteraceae,Cyanus,Cyanus segetum Hill,herve goeau,2013-6-28,Paris,48.83649,2.0978,PlantCLEF2014,12048,30651,Train
+8346,134,3,Leaf,2918,Fabaceae,Gleditsia,Gleditsia triacanthos L.,pierre bonnet,2013-6-21,Montferrier-sur-Lez,43.65167,3.862,PlantCLEF2014,8398,54802,Train
+30052,135,3,Branch,1321,Betulaceae,Alnus,Alnus glutinosa (L.) Gaertn.,liliane roubaudi,2012-6-17,La Gravelle,,,ImageCLEF2013,3013,1692,Train
+35035,136,1,Stem,4109,Platanaceae,Platanus,Platanus x hispanica Mill. ex Münchh.,liliane roubaudi,2012-3-30,Bourges,,,PlantCLEF2014,6678,21640,Train
+24369,137,3,Stem,2584,Caprifoliaceae,Dipsacus,Dipsacus fullonum L.,marie portas,2011-6-15,Lapanouse,44.32345,3.03592,ImageCLEF2013,14397,17260,Train
+28225,138,5,Fruit,2918,Fabaceae,Gleditsia,Gleditsia triacanthos L.,pierre bonnet,2011-12-8,Montpellier,,,ImageCLEF2013,3196,50586,Train
+18599,140,3,Entire,1914,Campanulaceae,Jasione,Jasione montana L.,laurent petit,2006-8-8,Sizun,,,PlantCLEF2014,11140,7377,Train
+6165,141,1,Branch,5148,Salicaceae,Salix,Salix caprea L.,alain bigou,2011-6-11,Listvyanka,51.84999,104.88356,PlantCLEF2014,6834,18671,Train
+12114,143,3,Flower,1389,Boraginaceae,Lithodora,Lithodora fruticosa (L.) Griseb.,daniel mathieu,2007-4-17,Prades-le-Lez,,,ImageCLEF2013,2318,43799,Train
+17629,144,3,Flower,30131,Oleaceae,Fraxinus,Fraxinus excelsior L.,vera bakic,2012-4-12,Rocquencourt,,,ImageCLEF2013,11937,18608,Train
+27321,145,2,Leaf,4228,Polygonaceae,Bistorta,Bistorta officinalis Delarbre,paul fabre,2012-6-8,Saint-Sauveur-Camprieu,44.11158,3.48215,PlantCLEF2015,,,Train
+14511,147,2,Leaf,5148,Salicaceae,Salix,Salix caprea L.,claire sutter,2009-5-5,,,,PlantCLEF2014,9157,33847,Train
+13376,148,3,Entire,14869,Fabaceae,Ulex,Ulex europaeus L.,jacques marechal,2011-12-18,La Chapelle-Saint-Mesmin,47.87602,1.8145,PlantCLEF2014,17626,37464,Train
+13997,149,3,Flower,1914,Campanulaceae,Jasione,Jasione montana L.,mathieu menand,2010-6-11,Pibrac,,,PlantCLEF2014,7940,7705,Train
+34998,151,2,Flower,3885,Onagraceae,Epilobium,Epilobium angustifolium L.,alain bigou,2013-8-10,Cauterets,42.83151,-0.14184,PlantCLEF2014,3355,56780,Train
+21566,152,3,Flower,30302,Orchidaceae,Pseudorchis,Pseudorchis albida (L.) Á.Löve & D.Löve,didier gachon,2012-6-21,Bouvante,44.88242,5.32644,PlantCLEF2014,4247,3933,Train
+12008,153,3,Entire,29926,Sapindaceae,Acer,Acer platanoides L.,thierry pernot,1800-1-1,,,,PlantCLEF2014,11844,34512,Train
+319,154,3,Leaf,1325,Betulaceae,Betula,Betula pendula Roth,liliane roubaudi,2013-8-25,Chamonix-Mont-Blanc,,,PlantCLEF2014,5190,2944,Train
+15205,155,3,Entire,7305,Cupressaceae,Juniperus,Juniperus oxycedrus L.,genevieve botti,2010-12-31,Marseille,,,PlantCLEF2014,2879,8177,Train
+23325,156,3,LeafScan,1972,Adoxaceae,Viburnum,Viburnum opulus L.,annick larbouillat,2011-10-13,La Queue-en-Brie,,,ImageCLEF2012,5347,28963,Train
+40977,157,3,Entire,5675,Caprifoliaceae,Valeriana,Valeriana celtica L.,christophe girod,2008-3-25,Les Evettes,,,PlantCLEF2015,,,Train
+13300,158,3,Flower,352,Apocynaceae,Vincetoxicum,Vincetoxicum nigrum (L.) Moench,hugues tinguy,2013-6-12,Oppède,,,PlantCLEF2015,,,Train
+22326,160,4,LeafScan,30381,Rosaceae,Sorbus,Sorbus aria (L.) Crantz,pierre bonnet,2010-8-14,Montpellier,,,ImageCLEF2011,15222,50106,Train
+4658,161,3,Entire,1235,Asteraceae,Staehelina,Staehelina dubia L.,alain bigou,2005-6-28,Saint-Sauveur-la-Vallée,44.61743,1.54175,PlantCLEF2015,,,Train
+21176,162,3,Entire,3529,Lamiaceae,Clinopodium,Clinopodium nepeta (L.) Kuntze,gabriel chapuis,2010-7-2,Balogna,42.17767,8.78372,PlantCLEF2015,,,Train
+28476,163,4,Leaf,14803,Malvaceae,Tilia,Tilia platyphyllos Scop.,herve goeau,2012-9-10,Rocquencourt,48.84401,2.35995,ImageCLEF2013,9899,15421,Train
+20291,164,3,Leaf,3750,Lauraceae,Laurus,Laurus nobilis L.,charlene arnaud,2011-5-26,Montpellier,,,ImageCLEF2012,657,37801,Train
+9393,167,2,Leaf,30303,Dennstaedtiaceae,Pteridium,Pteridium aquilinum (L.) Kuhn,florent beck,2013-8-26,Hélette,,,PlantCLEF2014,19337,57429,Train
+1976,169,5,LeafScan,329,Araliaceae,Hedera,Hedera helix L.,pierre bonnet,2011-3-21,Montpellier,,,ImageCLEF2012,8904,19309,Train
+41294,170,3,Flower,560,Asteraceae,Catananche,Catananche caerulea L.,marie portas,2011-5-24,Saint-Remèze,44.38333,4.5,PlantCLEF2015,,,Train
+3203,171,4,LeafScan,30126,Moraceae,Ficus,Ficus carica L.,pierre bonnet,2010-10-8,Montpellier,43.60818,3.87945,ImageCLEF2011,18961,20245,Train
+16720,172,4,Flower,513,Asteraceae,Calendula,Calendula arvensis L.,liliane roubaudi,2014-1-1,Vendres,,,PlantCLEF2015,,,Train
+38621,173,1,Entire,7280,Pinaceae,Pinus,Pinus mugo Turra,mathieu menand,2007-6-23,Auzat,,,PlantCLEF2014,86,31177,Train
+7423,174,3,Stem,3507,Juglandaceae,Pterocarya,Pterocarya fraxinifolia (Poir.) Spach,vera bakic,2012-9-10,Rocquencourt,48.84403,2.3598,ImageCLEF2013,7082,51453,Train
+35379,176,3,Fruit,29917,Malvaceae,Tilia,Tilia dasystyla Stev.,bourcier laurence,2012-9-10,Rocquencourt,,,PlantCLEF2014,17902,27055,Train
+33480,177,3,Flower,30471,Orchidaceae,Ophrys,Ophrys scolopax Cav.,gregoire duche,2009-5-20,Lauret,,,PlantCLEF2014,6596,27776,Train
+8878,178,4,LeafScan,1467,Fabaceae,Albizia,Albizia julibrissin Durazz.,pierre bonnet,2010-10-18,Lattes,,,ImageCLEF2011,12933,1676,Train
+25490,179,3,Branch,30737,Adoxaceae,Sambucus,Sambucus racemosa L.,andre merle,2012-9-2,Suisse - Trient,46.07023,6.98029,PlantCLEF2014,18077,27555,Train
+6287,180,4,Leaf,4827,Rosaceae,Prunus,Prunus avium (L.) L.,herve goeau,2012-5-29,Meyssiès,48.64546,2.32002,PlantCLEF2014,9723,14713,Train
+15454,181,3,Flower,30459,Gentianaceae,Gentiana,Gentiana verna L.,alain bigou,2005-6-12,Eyne,42.89626,0.06362,ImageCLEF2013,18815,49791,Train
+40473,182,3,LeafScan,8774,Betulaceae,Betula,Betula pubescens Ehrh.,laetitia goeau,2012-4-22,Rocquencourt,,,ImageCLEF2012,5819,55968,Train
+22130,183,3,Flower,3441,Geraniaceae,Geranium,Geranium sylvaticum L.,mathieu menand,2009-5-13,Charmensac,,,ImageCLEF2013,13712,35238,Train
+36831,184,4,Leaf,4745,Rosaceae,Fragaria,Fragaria vesca L.,herve goeau,2014-4-20,,46.61396,5.84965,PlantCLEF2015,,,Train
+5860,185,4,LeafScan,30056,Cornaceae,Cornus,Cornus sanguinea L.,pierre bonnet,2012-4-17,Montpellier,,,ImageCLEF2013,15255,44586,Train
+21231,186,3,Flower,3465,Sapindaceae,Aesculus,Aesculus hippocastanum L.,daniel mathieu,2009-4-29,Montpellier,,,ImageCLEF2013,3761,16817,Train
+37919,187,4,Flower,14524,Caryophyllaceae,Silene,Silene latifolia Poir.,daniel mathieu,2007-4-17,Prades-le-Lez,,,PlantCLEF2014,3568,42636,Train
+13543,188,3,Fruit,34271,Caprifoliaceae,Carica,Carica papaya L.,liliane roubaudi,1990-4-10,îles Canari,,,PlantCLEF2015,,,Train
+24815,189,3,Flower,6079,Iridaceae,Crocus,Crocus nudiflorus Sm.,jean-claude calais,2014-9-28,Marchastel,44.61883,3.09177,PlantCLEF2015,,,Train
+40347,190,3,Flower,5394,Plantaginaceae,Misopates,Misopates orontium (L.) Raf.,daniel mathieu,2007-5-13,Saint-Martin-de-l'Arçon,,,PlantCLEF2015,,,Train
+37402,192,4,LeafScan,6367,Asparagaceae,Ruscus,Ruscus aculeatus L.,daniel barthelemy,2011-10-11,Puechabon,,,ImageCLEF2012,12632,60617,Train
+21858,193,3,Flower,5324,Plantaginaceae,Digitalis,Digitalis purpurea L.,claude figureau,2006-6-3,Coex,,,PlantCLEF2014,4573,58984,Train
+4130,194,4,Flower,1047,Asteraceae,Leucanthemum,Leucanthemum vulgare Lam.,herve goeau,2013-6-27,,,,PlantCLEF2014,17852,42464,Train
+31596,196,4,Leaf,329,Araliaceae,Hedera,Hedera helix L.,pierre bonnet,2012-3-21,Montpellier,,,ImageCLEF2013,3231,42258,Train
+2651,197,2.5,Leaf,1286,Asteraceae,Urospermum,Urospermum dalechampii (L.) Scop. ex F.W.Schmidt,emmanuel stratmains,2012-4-9,Le Muy,43.45818,6.59686,PlantCLEF2014,13718,16071,Train
+37671,199,3,Leaf,4721,Rosaceae,Crataegus,Crataegus monogyna Jacq.,herve goeau,2013-7-21,Feugarolles,48.65283,2.31433,PlantCLEF2014,3318,18019,Train
+27521,200,3,Entire,2455,Convolvulaceae,Convolvulus,Convolvulus cantabrica L.,mathieu menand,2007-4-30,Gruissan,,,ImageCLEF2013,15123,8097,Train
+12875,201,4,Leaf,3962,Oleaceae,Syringa,Syringa vulgaris L.,alexis joly,2013-5-8,Saint-Georges-d'Orques,43.61024,3.78477,PlantCLEF2014,1368,57863,Train
+28461,204,3.5,Flower,4736,Rosaceae,Cydonia,Cydonia oblonga Mill.,mathieu menand,2011-4-2,Bruniquel,,,PlantCLEF2014,17401,21082,Train
+15013,206,3.5,Flower,4721,Rosaceae,Crataegus,Crataegus monogyna Jacq.,jean-luc gorremans,1800-1-1,Athis-Mons,,,ImageCLEF2013,15345,51775,Train
+23733,207,4,Stem,5142,Salicaceae,Salix,Salix babylonica L.,pierre bonnet,2012-3-28,Montpellier,,,PlantCLEF2014,8025,24795,Train
+18091,208,3,Flower,5411,Paulowniaceae,Paulownia,Paulownia tomentosa (Thunb.) Steud.,liliane roubaudi,2013-4-18,Prades-le-Lez,,,PlantCLEF2015,,,Train
+229,209,3,Flower,14778,Lamiaceae,Teucrium,Teucrium chamaedrys L.,pierre seba,2011-5-30,Tilos [GR],,,PlantCLEF2014,5703,6912,Train
+14546,211,3,Fruit,2848,Fabaceae,Colutea,Colutea arborescens L.,daniel mathieu,2009-6-14,Bez-et-Esparon,,,PlantCLEF2014,9878,16465,Train
+6183,212,4,Stem,5634,Cannabaceae,Celtis,Celtis australis L.,pierre bonnet,2011-4-23,Lattes,,,ImageCLEF2013,12808,15491,Train
+7922,213,3,Branch,4616,Rhamnaceae,Paliurus,Paliurus spina-christi Mill.,genevieve botti,2013-8-4,Montauroux,43.58854,6.77294,PlantCLEF2014,3256,42625,Train
+33140,214,5,Flower,14834,Fabaceae,Trifolium,Trifolium repens L.,herve goeau,2013-6-11,Sainte-Geneviève-des-Bois,48.64712,2.31709,PlantCLEF2014,17225,7051,Train
+10008,215,3,Flower,548,Asteraceae,Carlina,Carlina acanthifolia All.,marie-france petibon,2014-8-17,Gèdre,42.7864,0.01914,PlantCLEF2015,,,Train
+27666,217,4,Stem,3297,Fagaceae,Quercus,Quercus suber L.,herve goeau,2013-10-22,Barcelona,41.36161,2.15693,PlantCLEF2014,18310,26017,Train
+40038,218,1,Entire,6343,Asparagaceae,Muscari,Muscari comosum (L.) Mill.,genevieve botti,2013-4-11,Marseille,,,PlantCLEF2014,10652,40989,Train
+17984,219,1,Branch,4109,Platanaceae,Platanus,Platanus x hispanica Mill. ex Münchh.,herve goeau,2011-4-6,Paris,48.84246,2.35887,ImageCLEF2013,13371,37556,Train
+32527,220,4,Fruit,4850,Rosaceae,Pyracantha,Pyracantha coccinea M.Roem.,liliane roubaudi,2013-9-1,Lyon,,,PlantCLEF2015,,,Train
+23589,221,4,Entire,30200,Pinaceae,Larix,Larix decidua Mill.,daniel barthelemy,2013-8-14,Evolène Suisse,45.27242,5.47585,PlantCLEF2014,5820,42659,Train
+20859,223,3,Flower,8682,Asparagaceae,Asparagus,Asparagus officinalis L.,liliane roubaudi,2008-5-25,Gruissan,,,PlantCLEF2015,,,Train
+37758,224,2.5,Entire,6305,Liliaceae,Fritillaria,Fritillaria meleagris L.,liliane roubaudi,2008-3-5,Quincieux,,,PlantCLEF2014,3261,5466,Train
+25566,225,3,Entire,3546,Lamiaceae,Galeopsis,Galeopsis tetrahit L.,valerie bruneau-querey,2011-8-7,Beaumesnil,49.00595,0.69843,PlantCLEF2014,15503,11585,Train
+36844,226,3,Flower,8774,Betulaceae,Betula,Betula pubescens Ehrh.,herve goeau,2011-4-20,Rocquencourt,48.84401,2.35995,PlantCLEF2014,1757,52812,Train
+39292,227,5,Flower,6491,Orchidaceae,Ophrys,Ophrys bertolonii Moretti,marie portas,2013-5-25,Saint-Pons,,,PlantCLEF2015,,,Train
+40631,228,5,Flower,6089,Iridaceae,Gladiolus,Gladiolus italicus Mill.,errol vela,2012-6-3,La Bastide-des-Jourdans,43.78289,5.6437,PlantCLEF2015,,,Train
+14234,229,3,Flower,5604,Thymelaeaceae,Daphne,Daphne laureola L.,catherine mahyeux,2009-4-9,Saint-Ferréol-de-Comminges,,,PlantCLEF2014,17501,16194,Train
+37322,231,3,Leaf,2717,Euphorbiaceae,Euphorbia,Euphorbia lathyris L.,augustin roche,2004-5-15,Cantenay-Épinard,47.52909,-0.56279,ImageCLEF2013,18040,18814,Train
+37733,233,5,Stem,4109,Platanaceae,Platanus,Platanus x hispanica Mill. ex Münchh.,pierre bonnet,2011-4-12,Montpellier,,,ImageCLEF2013,195,52982,Train
+6919,234,3,Flower,4721,Rosaceae,Crataegus,Crataegus monogyna Jacq.,jean-jacques houdre,2012-5-17,Pégairolles-de-Buèges,43.79583,3.55,ImageCLEF2013,13092,31365,Train
+19,236,3,Entire,4074,Pittosporaceae,Pittosporum,Pittosporum tobira (Thunb.) W.T.Aiton,pierre bonnet,2011-4-30,Palavas-les-Flots,,,ImageCLEF2013,18726,54088,Train
+23129,238,3,Leaf,30303,Dennstaedtiaceae,Pteridium,Pteridium aquilinum (L.) Kuhn,samuel dufour-kowalski,2012-11-29,St Denis Bois de Nèfles,-20.93686,55.47179,PlantCLEF2015,,,Train
+15459,239,3,Branch,30402,Lamiaceae,Teucrium,Teucrium scorodonia L.,jean-luc gorremans,2014-7-30,Noisy-sur-École,48.37461,2.51627,PlantCLEF2015,,,Train
+31620,240,4,Flower,4742,Rosaceae,Filipendula,Filipendula vulgaris Moench,liliane roubaudi,2013-6-4,Corignac,,,PlantCLEF2015,,,Train
+30719,241,3,Entire,4759,Rosaceae,Kerria,Kerria japonica (L.) DC.,hennequin,2014-4-21,Condé-sur-Marne,49.04399,4.18171,PlantCLEF2015,,,Train
+29158,242,3,Entire,30287,Orchidaceae,Platanthera,Platanthera chlorantha (Custer) Rchb.,emmanuel stratmains,2013-6-30,Cheffreville-Tonnencourt,49.02853,0.22758,PlantCLEF2015,,,Train
+20009,243,1,Entire,29903,Asteraceae,Taraxacum,Taraxacum officinale F.H.Wigg.,sauvages de ma rue,2012-4-2,,48.8905,2.37713,PlantCLEF2014,18925,32754,Train
+5330,244,3,Flower,3130,Fabaceae,Sophora,Sophora japonica L.,nicolas sennavoine,2014-8-6,Saint-André-du-Bois,44.61584,-0.17076,PlantCLEF2015,,,Train
+14880,245,3,Fruit,4760,Rosaceae,Malus,Malus domestica Borkh.,herve goeau,2013-9-4,Torfou,48.52956,2.24041,PlantCLEF2014,4335,33810,Train
+39286,246,4,Flower,1893,Campanulaceae,Campanula,Campanula patula L.,claude figureau,2012-7-18,Autriche Niderthai,,,PlantCLEF2015,,,Train
+37101,247,4,LeafScan,30008,Brassicaceae,Capsella,Capsella bursa-pastoris (L.) Medik.,liliane roubaudi,2014-3-4,Lyon,,,PlantCLEF2015,,,Train
+20853,249,2,Branch,5090,Rubiaceae,Galium,Galium verum L.,liliane roubaudi,2013-6-29,Gresse-en-Vercors,,,PlantCLEF2015,,,Train
+24257,250,3,Entire,8703,Asteraceae,Tripolium,Tripolium pannonicum (Jacq.) Dobrocz.,jean-jacques houdre,2011-10-17,Barbâtre,46.93239,-2.15287,PlantCLEF2015,,,Train
+2451,251,3,Leaf,967,Asteraceae,Hypochaeris,Hypochaeris radicata L.,jean-jacques houdre,2013-10-18,Fleurat,46.22583,1.69686,PlantCLEF2015,,,Train
+27430,252,5,Flower,2055,Caryophyllaceae,Dianthus,Dianthus gallicus Pers.,guy libante,2013-8-28,Saint-Chély-d'Aubrac,44.57792,2.99241,PlantCLEF2015,,,Train
+36473,255,3,Flower,2176,Caryophyllaceae,Saponaria,Saponaria ocymoides L.,thierry pernot,1800-1-1,,,,PlantCLEF2014,8566,23461,Train
+17860,258,3,Fruit,5714,Lamiaceae,Vitex,Vitex agnus-castus L.,liliane roubaudi,2012-12-2,Paris,,,ImageCLEF2013,4409,5415,Train
+40461,259,3,Entire,148,Apiaceae,Crithmum,Crithmum maritimum L.,hugues tinguy,2011-9-11,Cayeux-sur-Mer,,,ImageCLEF2013,1930,13523,Train
+31704,260,3,LeafScan,1803,Brassicaceae,Sisymbrium,Sisymbrium irio L.,bertrand bui,2011-9-28,Paris,43.39967,5.34849,PlantCLEF2015,,,Train
+20424,263,3,Flower,1166,Asteraceae,Jacobaea,"Jacobaea erucifolia (L.) P.Gaertn., B.Mey. & Scherb.",thierry pernot,1800-1-1,,,,PlantCLEF2015,,,Train
+1875,264,3,Fruit,4846,Rosaceae,Prunus,Prunus serotina Ehrh.,mathieu menand,2010-6-11,Pibrac,,,ImageCLEF2013,17361,11563,Train
+21888,265,3,Leaf,1959,Caprifoliaceae,Lonicera,Lonicera etrusca Santi,john de vos,2012-8-5,Montdardier,43.92175,3.60227,PlantCLEF2015,,,Train
+33282,266,5,LeafScan,3279,Fagaceae,Castanea,Castanea sativa Mill.,denis cachon,2009-5-31,Paris,,,ImageCLEF2011,18685,55069,Train
+32089,267,4,LeafScan,1948,Capparaceae,Capparis,Capparis spinosa L.,daniel barthelemy,2011-10-11,Puechabon,,,ImageCLEF2012,14840,36098,Train
+19567,268,3,Flower,3546,Lamiaceae,Galeopsis,Galeopsis tetrahit L.,dominique remaud,2012-9-19,Etalante,47.64083,4.76124,PlantCLEF2014,15682,57595,Train
+34287,270,4,Stem,29924,Sapindaceae,Acer,Acer negundo L.,herve goeau,2012-4-19,Colombiers,,,PlantCLEF2014,6882,7406,Train
+4935,271,3,LeafScan,4379,Lythraceae,Punica,Punica granatum L.,jean-francois molino,2011-10-30,Grabels,43.65096,3.78614,ImageCLEF2012,16281,56210,Train
+36342,272,2.5,Flower,2475,Cornaceae,Cornus,Cornus mas L.,michel pourchet,1800-1-1,Champ-sur-Drac,,,ImageCLEF2013,10106,26149,Train
+22461,273,3,Entire,4092,Plantaginaceae,Plantago,Plantago lagopus L.,liliane roubaudi,1985-5-12,Fleury,,,PlantCLEF2015,,,Train
+32286,274,3,Entire,565,Asteraceae,Centaurea,Centaurea aspera L.,jean-jacques houdre,2011-10-13,La Faute-sur-Mer,46.30352,-1.2944,ImageCLEF2013,12017,300,Train
+7109,275,1,Flower,1325,Betulaceae,Betula,Betula pendula Roth,michel pourchet,2006-4-6,,,,PlantCLEF2014,7922,28816,Train
+25204,276,3,Entire,4485,Ranunculaceae,Anemone,Anemone rubra Lam.,Unknown364,2011-4-27,Langogne,,,PlantCLEF2015,,,Train
+5413,277,3,Leaf,7323,Taxaceae,Taxus,Taxus baccata L.,herve goeau,2013-6-28,Paris,48.83649,2.0978,PlantCLEF2014,1218,24414,Train
+40410,278,4,LeafScan,8523,Sapindaceae,Acer,Acer monspessulanum L.,liliane roubaudi,2013-6-25,Cassis,,,PlantCLEF2014,9094,20671,Train
+35890,280,4,LeafScan,2689,Euphorbiaceae,Euphorbia,Euphorbia characias L.,daniel barthelemy,2011-10-11,Puechabon,,,ImageCLEF2012,10513,45490,Train
+5260,281,4,Flower,8600,Orchidaceae,Anacamptis,Anacamptis pyramidalis (L.) Rich.,bernard andrieu,2013-5-21,La Tour-sur-Orb,43.65545,3.18003,PlantCLEF2014,782,25882,Train
+14463,282,3,Entire,1556,Brassicaceae,Brassica,Brassica napus L.,florent beck,2013-4-12,Hélette,43.32262,-1.26759,PlantCLEF2015,,,Train
+39884,283,3,Flower,1842,Buxaceae,Buxus,Buxus sempervirens L.,daniel barthelemy,2013-4-13,Puéchabon,,,PlantCLEF2014,12589,44600,Train
+14208,284,1,Entire,8774,Betulaceae,Betula,Betula pubescens Ehrh.,jean mellinger,2002-11-5,Barembach,48.4769,7.22776,PlantCLEF2014,14185,57705,Train
+15756,285,1,Leaf,5570,Solanaceae,Solanum,Solanum dulcamara L.,michel pourchet,2007-7-30,Juillac,,,ImageCLEF2013,8686,49946,Train
+28114,286,3,Leaf,30093,Cucurbitaceae,Ecballium,Ecballium elaterium (L.) A.Rich.,daniel mathieu,2007-11-7,Sète,,,PlantCLEF2014,376,22900,Train
+17210,287,3,LeafScan,2941,Fabaceae,Lathyrus,Lathyrus cicera L.,pierre bonnet,2013-5-6,Montpellier,,,PlantCLEF2014,9122,2289,Train
+36157,288,3,Entire,8527,Asteraceae,Achillea,Achillea millefolium L.,augustin roche,2004-6-22,Saint-Pierre-de-Coutances,49.0282,-1.4388,PlantCLEF2014,5168,2023,Train
+2474,289,3,LeafScan,2394,Cistaceae,Cistus,Cistus albidus L.,liliane roubaudi,2013-1-3,Fleury,,,PlantCLEF2014,18569,55197,Train
+26343,290,3.5,Flower,1893,Campanulaceae,Campanula,Campanula patula L.,marie portas,2012-7-3,Chadron,,,PlantCLEF2015,,,Train
+11841,291,4,Flower,3656,Lamiaceae,Scutellaria,Scutellaria galericulata L.,john de vos,2014-8-9,Auroux,44.75263,3.72703,PlantCLEF2015,,,Train
+32502,292,3,Fruit,5905,Cyperaceae,Carex,Carex flacca Schreb.,louise boulangeat,2013-4-11,Montpellier,43.64109,3.84886,PlantCLEF2015,,,Train
+33880,293,2,Branch,8534,Ranunculaceae,Aconitum,Aconitum napellus L.,david mercier,2012-7-25,Soucelles,,,PlantCLEF2014,8721,13842,Train
+24910,294,2,Entire,54,Anacardiaceae,Cotinus,Cotinus coggygria Scop.,michel pourchet,2006-5-28,Vif,,,ImageCLEF2013,9891,58456,Train
+12396,295,4.5,Stem,3841,Meliaceae,Melia,Melia azedarach L.,daniel barthelemy,2013-4-25,Montpellier,43.6295,3.866,PlantCLEF2014,18202,25564,Train
+4359,297,4,Leaf,2651,Ericaceae,Calluna,Calluna vulgaris (L.) Hull,liliane roubaudi,2014-8-15,Chamonix Mont Blanc,,,PlantCLEF2015,,,Train
+40130,298,5,Flower,3397,Geraniaceae,Erodium,Erodium ciconium (L.) L'Hér.,jean-jacques houdre,2013-4-28,Fabrègues,,,PlantCLEF2014,1870,49404,Train
+8750,299,3,Entire,6538,Orchidaceae,Anacamptis,"Anacamptis morio (L.) R.M.Bateman, Pridgeon & M.W.Chase",paul fabre,2010-5-13,La Couvertoirade,43.84443,3.26981,ImageCLEF2013,15599,43568,Train
+22438,300,2,Branch,5458,Scrophulariaceae,Scrophularia,Scrophularia auriculata L.,mathieu menand,2008-5-12,Avignonet-Lauragais,,,PlantCLEF2015,,,Train
+3,301,3,Flower,12389,Verbenaceae,Lantana,Lantana camara L.,elyse mouysset,2012-11-24,St Philippe Mare Longue,-21.35364,55.7408,PlantCLEF2015,,,Train
+32022,302,3,Entire,30353,Crassulaceae,Sedum,Sedum dasyphyllum L.,ans gorter,2011-8-4,Roquefixade,45.31989,6.99346,PlantCLEF2015,,,Train
+34147,303,3,Branch,5634,Cannabaceae,Celtis,Celtis australis L.,liliane roubaudi,2013-10-26,Lyon,,,PlantCLEF2014,9657,14607,Train
+23984,304,3,Flower,8931,Cannaceae,Canna,Canna indica L.,herve goeau,2013-7-24,Vianne,44.19531,0.3202,PlantCLEF2015,,,Train
+24962,305,3,Leaf,3956,Oleaceae,Olea,Olea europaea L.,pierre bonnet,2010-11-9,Montpellier,,,ImageCLEF2011,7981,1582,Train
+28736,306,3,Flower,30008,Brassicaceae,Capsella,Capsella bursa-pastoris (L.) Medik.,emmanuel stratmains,2012-6-26,Le Mans,48.02891,0.18775,PlantCLEF2014,8080,30885,Train
+12788,307,3,Branch,3584,Lamiaceae,Mentha,Mentha aquatica L.,liliane roubaudi,2012-9-29,Lyon,,,PlantCLEF2014,18606,42797,Train
+39058,309,3,Leaf,2950,Fabaceae,Lathyrus,Lathyrus latifolius L.,herve goeau,2013-7-21,Feugarolles,48.65283,2.31433,PlantCLEF2014,18906,31211,Train
+36286,310,4,LeafScan,4617,Rhamnaceae,Rhamnus,Rhamnus alaternus L.,mathieu millan,2010-7-1,Montpellier,,,ImageCLEF2011,5452,8093,Train
+7608,311,1,Branch,5570,Solanaceae,Solanum,Solanum dulcamara L.,thierry pernot,1800-1-1,,,,PlantCLEF2014,4028,4689,Train
+90,312,5,Fruit,14549,Caprifoliaceae,Scabiosa,Scabiosa atropurpurea L.,paul fabre,2012-6-16,Cazevieille,,,PlantCLEF2015,,,Train
+40467,313,4,Flower,2532,Crassulaceae,Sempervivum,Sempervivum arachnoideum L.,genevieve botti,2014-7-5,Seyne,,,PlantCLEF2015,,,Train
+19226,314,3,Flower,4887,Rosaceae,Rosa,Rosa spinosissima L.,christophe girod,2006-5-16,Talant,,,PlantCLEF2015,,,Train
+6683,315,2,Branch,459,Asteraceae,Artemisia,Artemisia vulgaris L.,mathieu menand,2008-7-31,Vézins-de-Lévézou,,,PlantCLEF2015,,,Train
+11603,316,3.5,Flower,5148,Salicaceae,Salix,Salix caprea L.,herve goeau,2013-3-24,Sainte-Geneviève-des-Bois,48.8567,2.24104,PlantCLEF2014,6379,24492,Train
+23748,317,1,Entire,661,Asteraceae,Cichorium,Cichorium intybus L.,daniel mathieu,2007-7-15,Avignon,,,ImageCLEF2013,1175,54076,Train
+31167,318,3,Leaf,30129,Rhamnaceae,Frangula,Frangula dodonei Ard.,mathieu menand,2010-5-15,Moliets-et-Maa,,,ImageCLEF2013,6916,58086,Train
+24218,319,1,Entire,2537,Crassulaceae,Sempervivum,Sempervivum montanum L.,alain bigou,2013-8-10,Cauterets,42.79723,-0.14136,PlantCLEF2015,,,Train
+3533,320,3,Flower,7075,Poaceae,Poa,Poa annua L.,michel rouge,2013-6-15,,48.8394,2.33688,PlantCLEF2015,,,Train
+21058,321,3,Entire,3451,Plantaginaceae,Globularia,Globularia alypum L.,daniel mathieu,2007-2-23,Mourèze,,,ImageCLEF2013,19333,10023,Train
+28528,322,4,LeafScan,3750,Lauraceae,Laurus,Laurus nobilis L.,pierre bonnet,2012-4-24,Montpellier,,,ImageCLEF2013,3906,49807,Train
+39473,324,3,Leaf,3849,Moraceae,Morus,Morus alba L.,pierre bonnet,2012-11-29,Les Avirons,-21.24064,55.3342,PlantCLEF2015,,,Train
+7466,325,3,Entire,34550,Apiaceae,Centella,Centella asiatica (L.) Urb.,florian fraix-bavuz,2014-2-23,,-16.731,-151.443,PlantCLEF2015,,,Train
+23182,326,4,Leaf,3962,Oleaceae,Syringa,Syringa vulgaris L.,anne verroust,2012-9-10,Rocquencourt,48.83034,2.11229,ImageCLEF2013,8893,25095,Train
+24329,328,3,Flower,1382,Boraginaceae,Heliotropium,Heliotropium europaeum L.,herve goeau,2013-7-15,Pego,38.87151,-0.07449,PlantCLEF2015,,,Train
+18891,329,1,Stem,4996,Rosaceae,Sorbus,Sorbus torminalis (L.) Crantz,thierry pernot,1800-1-1,,,,PlantCLEF2014,8193,38446,Train
+37362,330,2,Flower,14914,Violaceae,Viola,Viola arvensis Murray,emmanuel stratmains,2013-7-1,Souillé,48.12239,0.18102,PlantCLEF2015,,,Train
+19486,331,3,Flower,3557,Lamiaceae,Lamium,Lamium album L.,mathieu menand,2009-4-22,Busset,,,PlantCLEF2014,9135,52195,Train
+35170,332,3,Entire,967,Asteraceae,Hypochaeris,Hypochaeris radicata L.,mathieu menand,2008-6-28,Belin-Béliet,,,PlantCLEF2014,2091,56349,Train
+2996,333,3,Flower,538,Asteraceae,Carduus,Carduus nutans L.,jean-luc gorremans,2012-6-9,Auvers-Saint-Georges,48.48473,2.24975,PlantCLEF2014,17392,53420,Train
+33588,334,3,Branch,4758,Rosaceae,Geum,Geum urbanum L.,thierry pernot,1800-1-1,,,,PlantCLEF2014,11798,16672,Train
+23359,335,3.5,Flower,30231,Fabaceae,Medicago,Medicago arborea L.,bertrand bui,2011-3-6,Martigues,43.32967,5.07465,PlantCLEF2015,,,Train
+5878,336,2,Branch,329,Araliaceae,Hedera,Hedera helix L.,herve goeau,2012-2-24,Sainte-Geneviève-des-Bois,48.64469,2.29842,ImageCLEF2012,223,50628,Train
+23772,337,3,Entire,5357,Plantaginaceae,Linaria,Linaria alpina (L.) Mill.,mathilde duverger,2014-8-17,Saint-Christophe-en-Oisans,44.9355,6.32539,PlantCLEF2015,,,Train
+3733,338,3,Flower,1180,Asteraceae,Jacobaea,Jacobaea vulgaris Gaertn.,herve goeau,2014-5-14,Palaiseau,48.71443,2.20652,PlantCLEF2015,,,Train
+20408,339,2,Entire,603,Asteraceae,Cyanus,Cyanus montanus (L.) Hill,maverick6901,2014-5-17,Peyriat,46.14813,5.51467,PlantCLEF2015,,,Train
+41726,340,3,Leaf,37382,Cucurbitaceae,Bryonia,Bryonia cretica L.,christophe feliciaggi,2014-6-10,Malras,43.05896,2.17779,PlantCLEF2015,,,Train
+31084,341,3,Stem,5634,Cannabaceae,Celtis,Celtis australis L.,pierre bonnet,2011-2-19,Montpellier,,,ImageCLEF2013,7326,25056,Train
+34947,342,5,Flower,2394,Cistaceae,Cistus,Cistus albidus L.,claude figureau,2004-5-20,Lagrasse,,,PlantCLEF2014,16185,44750,Train
+22184,343,3.67,Fruit,2674,Ericaceae,Vaccinium,Vaccinium myrtillus L.,liliane roubaudi,2013-8-17,Chamonix-Mont-Blanc,,,PlantCLEF2014,14053,37513,Train
+32496,344,4,Flower,565,Asteraceae,Centaurea,Centaurea aspera L.,liliane roubaudi,2014-5-22,Vendres,,,PlantCLEF2015,,,Train
+28946,346,3,LeafScan,8523,Sapindaceae,Acer,Acer monspessulanum L.,violette roche,2011-10-27,Bédoin,,,ImageCLEF2012,2712,46818,Train
+7318,347,2,Entire,5506,Plantaginaceae,Veronica,Veronica cymbalaria Bodard,jeannine nicolas,2014-3-7,Aix-en-Provence,43.53328,5.44298,PlantCLEF2015,,,Train
+38635,348,4,Fruit,5377,Plantaginaceae,Linaria,Linaria vulgaris Mill.,liliane roubaudi,2014-10-16,Fécamp,,,PlantCLEF2015,,,Train
+4382,349,4,Flower,5373,Plantaginaceae,Linaria,Linaria supina (L.) Chaz.,liliane roubaudi,2014-7-7,Seyne,,,PlantCLEF2015,,,Train
+11925,351,3,Stem,8522,Sapindaceae,Acer,Acer campestre L.,gregoire duche,2011-5-26,Montpellier,43.65055,3.86544,ImageCLEF2013,18733,31368,Train
+8859,352,4,Flower,4760,Rosaceae,Malus,Malus domestica Borkh.,jot r,2014-4-28,Elbląg,54.16047,19.39808,PlantCLEF2015,,,Train
+10089,354,3,Branch,5496,Plantaginaceae,Veronica,Veronica arvensis L.,emmanuel stratmains,2013-4-19,Angers,47.45409,-0.58043,PlantCLEF2015,,,Train
+19597,355,3,Flower,6405,Melanthiaceae,Veratrum,Veratrum album L.,liliane roubaudi,2013-8-18,Finhaut,,,PlantCLEF2015,,,Train
+1505,356,3,LeafScan,13559,Rosaceae,Prunus,Prunus serrulata Lindl.,vera bakic,2011-4-21,Rocquencourt,48.84403,2.3598,ImageCLEF2013,185,37140,Train
+25688,358,4,Flower,5806,Amaryllidaceae,Narcissus,Narcissus assoanus Dufour,jennifer carre,2014-3-13,Mas-de-Londres,43.78814,3.80395,PlantCLEF2015,,,Train
+7939,359,2,Entire,1939,Campanulaceae,Phyteuma,Phyteuma spicatum L.,emmanuel stratmains,2013-7-14,Rouessé-Vassé,48.17972,-0.22732,PlantCLEF2014,13286,56750,Train
+28708,360,3,Flower,2178,Caryophyllaceae,Saponaria,Saponaria officinalis L.,valerie,2014-8-11,Castelnau-sur-Gupie,44.56643,0.14827,PlantCLEF2015,,,Train
+9983,361,3,LeafScan,4843,Rosaceae,Prunus,Prunus padus L.,laetitia goeau,2012-4-22,Rocquencourt,,,ImageCLEF2013,820,47984,Train
+4772,362,2,Branch,30433,Fabaceae,Coronilla,Coronilla varia L.,emmanuel andres,2013-8-18,Wasselonne,48.6375,7.45955,PlantCLEF2014,5047,46979,Train
+35035,363,1,Fruit,4109,Platanaceae,Platanus,Platanus x hispanica Mill. ex Münchh.,liliane roubaudi,2012-3-30,Bourges,,,PlantCLEF2015,,,Train
+12290,364,2.5,Entire,15,Aizoaceae,Carpobrotus,Carpobrotus edulis (L.) N.E.Br.,pierre bonnet,2011-3-19,Palavas-les-Flots,,,PlantCLEF2015,,,Train
+19958,365,3.5,Entire,493,Asteraceae,Bellis,Bellis perennis L.,jean-luc gorremans,1800-1-1,Athis-Mons,,,PlantCLEF2014,856,39067,Train
+9879,366,3,Fruit,1321,Betulaceae,Alnus,Alnus glutinosa (L.) Gaertn.,emmanuel stratmains,2013-12-15,Le Mans,47.99039,0.23788,PlantCLEF2014,17590,16250,Train
+27890,367,2,Branch,3465,Sapindaceae,Aesculus,Aesculus hippocastanum L.,pierre bonnet,2011-4-4,Montpellier,,,PlantCLEF2015,,,Train
+4298,368,4,Leaf,3942,Oleaceae,Fraxinus,Fraxinus angustifolia Vahl,pierre bonnet,2011-4-2,34 - Palavas-les-Flots,,,ImageCLEF2013,9312,3340,Train
+8979,369,1,Branch,30087,Brassicaceae,Diplotaxis,Diplotaxis erucoides (L.) DC.,nicolas sennavoine,2013-4-2,Saint-André-du-Bois,,,PlantCLEF2014,8889,45824,Train
+2036,370,3,Leaf,4826,Rosaceae,Prunus,Prunus armeniaca L.,herve goeau,2013-6-28,Paris,48.83649,2.0978,PlantCLEF2014,14948,24254,Train
+22191,373,4,Leaf,54,Anacardiaceae,Cotinus,Cotinus coggygria Scop.,pierre bonnet,2010-11-6,Montpellier,,,ImageCLEF2011,1559,4794,Train
+14833,376,3,Flower,3519,Lamiaceae,Ajuga,Ajuga reptans L.,herve goeau,2014-4-19,Lons-le-Saunier,46.68476,5.5673,PlantCLEF2015,,,Train
+13524,377,1,Branch,8712,Amaranthaceae,Atriplex,Atriplex prostrata Boucher ex DC.,liliane roubaudi,2014-10-7,Fécamp,,,PlantCLEF2015,,,Train
+3789,378,5,Flower,187,Apiaceae,Heracleum,Heracleum sphondylium L.,marie portas,2012-8-4,Draveil,,,PlantCLEF2014,15296,50809,Train
+7406,379,2,Fruit,505,Asteraceae,Bidens,Bidens pilosa L.,liliane roubaudi,2012-9-23,Lyon,,,PlantCLEF2015,,,Train
+11913,381,2,Branch,3124,Fabaceae,Robinia,Robinia pseudoacacia L.,pierre bonnet,2011-4-12,Montpellier,,,ImageCLEF2013,18438,56641,Train
+2896,382,3,Flower,1162,Asteraceae,Senecio,Senecio doronicum (L.) L.,mathieu menand,2008-7-18,Sallanches,,,PlantCLEF2014,7187,58266,Train
+38217,383,3,Branch,14563,Asteraceae,Sonchus,Sonchus asper (L.) Hill,florent beck,2013-5-31,Grandchamps-des-Fontaines,,,PlantCLEF2015,,,Train
+7921,384,3,LeafScan,2648,Ericaceae,Arbutus,Arbutus unedo L.,laetitia goeau,2012-5-1,Sainte-Geneviève-des-Bois,,,ImageCLEF2012,9373,53663,Train
+10654,385,4,Leaf,1333,Bignoniaceae,Catalpa,Catalpa bignonioides Walter,herve goeau,2014-9-25,Amance,48.75178,6.33428,PlantCLEF2015,,,Train
+26697,386,4,LeafScan,4109,Platanaceae,Platanus,Platanus x hispanica Mill. ex Münchh.,pierre bonnet,2012-5-2,Montpellier,,,ImageCLEF2012,566,58397,Train
+10242,387,2,Flower,3973,Orobanchaceae,Orobanche,Orobanche caryophyllacea Sm.,laurent chauvel,2013-5-23,Plouhinec,,,PlantCLEF2015,,,Train
+4717,388,3,Flower,3831,Malvaceae,Malva,Malva sylvestris L.,frank chemouni,2013-6-16,Charenton-le-Pont,48.82949,2.40264,PlantCLEF2014,2977,45119,Train
+18429,390,2,Flower,30143,Geraniaceae,Geranium,Geranium pratense L.,liliane roubaudi,2011-7-8,Os de Civis-  Andorre,,,PlantCLEF2015,,,Train
+3920,391,3.5,Flower,3576,Lamiaceae,Lycopus,Lycopus europaeus L.,liliane roubaudi,2012-9-30,Lyon,,,PlantCLEF2015,,,Train
+38373,392,1,Entire,4098,Plantaginaceae,Plantago,Plantago maritima L.,florent beck,2012-9-24,Saint-Jean-de-Luz,43.40305,-1.65859,PlantCLEF2015,,,Train
+23633,393,1,Entire,5403,Orobanchaceae,Odontites,Odontites luteus (L.) Clairv.,patricia jargeat,2014-10-4,Amélie-les-Bains-Palalda,42.46726,2.66694,PlantCLEF2015,,,Train
+19,394,4,Flower,4074,Pittosporaceae,Pittosporum,Pittosporum tobira (Thunb.) W.T.Aiton,pierre bonnet,2011-4-30,Palavas-les-Flots,,,ImageCLEF2013,18726,28026,Train
+17010,396,3,Leaf,2776,Fabaceae,Amorpha,Amorpha fruticosa L.,pierre bonnet,2014-5-5,Montpellier,43.60172,3.89596,PlantCLEF2015,,,Train
+3581,397,3,Leaf,14812,Asteraceae,Tragopogon,Tragopogon porrifolius L.,john de vos,2012-4-28,Saint-Mathieu-de-Tréviers,43.7579,3.86132,PlantCLEF2015,,,Train
+36217,398,3,Flower,3593,Lamiaceae,Mentha,Mentha suaveolens Ehrh.,florent beck,2013-8-5,La Roche-Posay,43.47908,-0.99564,PlantCLEF2015,,,Train
+11588,400,2,Flower,3546,Lamiaceae,Galeopsis,Galeopsis tetrahit L.,Unknown335,2013-7-15,La Pont de Menat,46.0966,2.93156,PlantCLEF2014,2309,41140,Train
+11281,401,3,Flower,1102,Asteraceae,Picris,Picris hieracioides L.,daniel mathieu,2007-7-15,Avignon,,,PlantCLEF2015,,,Train
+9566,402,4,Stem,4109,Platanaceae,Platanus,Platanus x hispanica Mill. ex Münchh.,herve goeau,2010-10-9,Paris,52.35195,4.9213,ImageCLEF2013,4703,39852,Train
+33955,403,3,Leaf,2176,Caryophyllaceae,Saponaria,Saponaria ocymoides L.,jean-pascal milcent,2011-4-26,Quissac,43.9135,3.98848,PlantCLEF2014,705,36757,Train
+21365,405,3,Leaf,30227,Primulaceae,Lysimachia,Lysimachia vulgaris L.,julien barataud,2006-6-15,Gosné,,,PlantCLEF2014,19047,19880,Train
+6284,407,3,Branch,383,Asteraceae,Ambrosia,Ambrosia artemisiifolia L.,liliane roubaudi,2012-9-8,Optevoz,,,PlantCLEF2015,,,Train
+489,408,3,Entire,30423,Plantaginaceae,Veronica,Veronica chamaedrys L.,laurent petit,1999-8-15,Brévillers,,,PlantCLEF2014,4437,33100,Train
+4300,409,3,Flower,5634,Cannabaceae,Celtis,Celtis australis L.,mathieu menand,2010-4-10,Castelnau-de-Guers,,,ImageCLEF2013,15146,10726,Train
+15198,410,4,LeafScan,329,Araliaceae,Hedera,Hedera helix L.,pierre bonnet,2011-3-21,Montpellier,,,ImageCLEF2012,13739,16450,Train
+5567,411,3,Flower,3279,Fagaceae,Castanea,Castanea sativa Mill.,michel pourchet,2006-6-14,Champ-sur-Drac,,,ImageCLEF2013,1683,53194,Train
+23850,412,1,Branch,29922,Acanthaceae,Acanthus,Acanthus mollis L.,mathieu menand,2010-5-24,Moux,,,PlantCLEF2014,172,28219,Train
+9427,413,3,Entire,786,Asteraceae,Eupatorium,Eupatorium cannabinum L.,thierry pernot,1800-1-1,,,,PlantCLEF2014,5855,45950,Train
+17857,414,2,Entire,2178,Caryophyllaceae,Saponaria,Saponaria officinalis L.,pauline guillaumeau,2014-11-2,,,,PlantCLEF2015,,,Train
+29742,417,3,LeafScan,3438,Geraniaceae,Geranium,Geranium rotundifolium L.,matthieuduhau,2014-4-6,,44.77225,-0.60798,PlantCLEF2015,,,Train
+31615,420,4,LeafScan,5602,Thymelaeaceae,Daphne,Daphne cneorum L.,daniel barthelemy,2011-10-11,Puechabon,,,ImageCLEF2012,11905,49550,Train
+26414,421,3,Fruit,5134,Salicaceae,Salix,Salix alba L.,thierry pernot,1800-1-1,,,,PlantCLEF2014,1036,20897,Train
+19548,423,3,Leaf,8522,Sapindaceae,Acer,Acer campestre L.,penarf jean louis,2013-5-25,Bourges,47.07374,2.39943,PlantCLEF2014,18164,9194,Train
+14713,424,3,LeafScan,3750,Lauraceae,Laurus,Laurus nobilis L.,ruddy benezet,2009-8-5,Beauvoisin,,,ImageCLEF2011,7951,44513,Train
+37737,425,4,Flower,565,Asteraceae,Centaurea,Centaurea aspera L.,claude figureau,2010-6-6,Talmont la Guittière,,,PlantCLEF2014,6626,37389,Train
+27318,426,3,Entire,1903,Campanulaceae,Campanula,Campanula scheuchzeri Vill.,marc chouillou,2010-7-18,Lajo,44.87278,3.42928,PlantCLEF2014,18527,4725,Train
+30912,427,4,LeafScan,4721,Rosaceae,Crataegus,Crataegus monogyna Jacq.,christine heinz,2010-7-15,Montpellier,,,ImageCLEF2011,15407,37196,Train
+13339,428,2,Flower,4516,Ranunculaceae,Ficaria,Ficaria verna Huds.,herve goeau,2013-4-1,Meyssiès,48.84187,2.22709,PlantCLEF2014,12253,38492,Train
+23210,429,2,Entire,30353,Crassulaceae,Sedum,Sedum dasyphyllum L.,emmanuel stratmains,2013-5-1,Beynes,43.94784,6.24646,PlantCLEF2015,,,Train
+4409,430,3,Stem,3296,Fagaceae,Quercus,Quercus rubra L.,souheil selmi,2012-9-10,Rocquencourt,,,ImageCLEF2013,101,27068,Train
+16062,432,3,Branch,6961,Poaceae,Hyparrhenia,Hyparrhenia hirta (L.) Stapf,liliane roubaudi,2014-4-25,Kolimbari,,,PlantCLEF2015,,,Train
+16988,433,4,Flower,3465,Sapindaceae,Aesculus,Aesculus hippocastanum L.,herve goeau,2012-5-1,Sainte-Geneviève-des-Bois,48.8567,2.24104,ImageCLEF2013,16599,39071,Train
+40510,436,3,Entire,1723,Brassicaceae,Isatis,Isatis tinctoria L.,liliane roubaudi,1996-5-10,Riboux,,,PlantCLEF2015,,,Train
+15134,437,2,Branch,9898,Boraginaceae,Echium,Echium vulgare L.,george fowler,2014-6-10,Saint-Pierre-des-Tripiers,44.1963,3.2476,PlantCLEF2015,,,Train
+22217,439,3,Leaf,3942,Oleaceae,Fraxinus,Fraxinus angustifolia Vahl,pierre bonnet,2011-4-9,Pérols,,,ImageCLEF2013,5291,55646,Train
+12976,440,3,Fruit,30126,Moraceae,Ficus,Ficus carica L.,herve goeau,2012-4-17,Puichéric,,,ImageCLEF2013,3926,25436,Train
+17944,442,4,Flower,1960,Caprifoliaceae,Lonicera,Lonicera implexa Aiton,paul fabre,2013-5-31,Montpellier,,,PlantCLEF2015,,,Train
+37727,443,4,Flower,12625,Brassicaceae,Matthiola,Matthiola sinuata (L.) R.Br.,liliane roubaudi,2013-5-17,Gruissan,,,PlantCLEF2014,17020,18980,Train
+10927,445,3,Leaf,12,Sapindaceae,Acer,Acer saccharinum L.,pierre bonnet,2014-9-25,Amance,48.75072,6.33346,PlantCLEF2015,,,Train
+9923,446,3,Flower,2584,Caprifoliaceae,Dipsacus,Dipsacus fullonum L.,laurent petit,2006-8-3,Penmarch,,,PlantCLEF2014,530,5070,Train
+9741,447,4,LeafScan,4074,Pittosporaceae,Pittosporum,Pittosporum tobira (Thunb.) W.T.Aiton,pierre bonnet,2010-7-7,,43.52872,3.93127,ImageCLEF2011,11608,17222,Train
+19191,448,3,Entire,5522,Plantaginaceae,Veronica,Veronica persica Poir.,bertrand bui,2011-3-25,Paris,,,PlantCLEF2014,98,52679,Train
+22581,449,2,Fruit,1948,Capparaceae,Capparis,Capparis spinosa L.,esra gauthier,2014-8-15,Kaş,36.20105,29.64043,PlantCLEF2015,,,Train
+15598,450,3,Fruit,30386,Lamiaceae,Betonica,Betonica officinalis L.,emmanuel stratmains,2013-12-23,Mézières-sous-Lavardin,48.14974,0.05883,PlantCLEF2015,,,Train
+1806,451,3,Flower,2657,Ericaceae,Erica,Erica cinerea L.,michel pourchet,2007-7-30,St Mesmin,,,PlantCLEF2014,17447,13856,Train
+23947,452,1,Entire,5972,Cyperaceae,Carex,Carex riparia Curtis,constant berrou,2012-5-6,Marly,49.05983,6.1548,PlantCLEF2015,,,Train
+4389,453,2,Branch,5062,Rubiaceae,Galium,Galium odoratum (L.) Scop.,francoise carle,2014-4-24,Estrées-sur-Noye,49.78667,2.33017,PlantCLEF2015,,,Train
+38280,455,3,Entire,30311,Ranunculaceae,Ranunculus,Ranunculus flammula L.,jean-jacques houdre,2013-6-30,Viriat,,,PlantCLEF2014,13959,39531,Train
+6646,456,3,Branch,4434,Ranunculaceae,Clematis,Clematis flammula L.,tela botanica tela botanica,2014-10-4,Montpellier,43.64846,3.87999,PlantCLEF2015,,,Train
+27308,457,1,Entire,2910,Fabaceae,Genista,Genista sagittalis L.,alain bigou,2005-7-24,Fontrabiouse,42.63371,2.06243,PlantCLEF2014,16280,52508,Train
+8482,459,3,Entire,5834,Amaryllidaceae,Pancratium,Pancratium maritimum L.,julien barataud,2008-10-15,Sète,,,PlantCLEF2014,17350,26497,Train
+2137,460,3,Stem,1845,Cactaceae,Opuntia,Opuntia ficus-indica (L.) Mill.,pierre bonnet,2012-11-29,St Pierre CIRAD 3P,-21.32102,55.48516,PlantCLEF2015,,,Train
+20858,461,3,Entire,2178,Caryophyllaceae,Saponaria,Saponaria officinalis L.,laurent petit,2005-8-13,Castelnaud-la-chapelle,,,PlantCLEF2014,13518,58413,Train
+12702,462,4,Stem,3797,Magnoliaceae,Liriodendron,Liriodendron tulipifera L.,herve goeau,2013-4-21,Vert-le-Petit,48.84401,2.35995,PlantCLEF2014,17536,7106,Train
+38854,463,4,LeafScan,7483,Altingiaceae,Liquidambar,Liquidambar styraciflua L.,herve goeau,2013-10-19,,45.48519,5.08697,PlantCLEF2014,11328,18991,Train
+40102,464,2,Branch,2178,Caryophyllaceae,Saponaria,Saponaria officinalis L.,dominique remaud,2012-7-7,Limay,48.99666,1.73222,PlantCLEF2014,6534,20470,Train
+15536,465,2,Leaf,1973,Adoxaceae,Viburnum,Viburnum tinus L.,alexis joly,2013-11-5,Montpellier,43.6373,3.83645,PlantCLEF2014,11541,17468,Train
+7722,466,1,Branch,30006,Campanulaceae,Campanula,Campanula trachelium L.,liliane roubaudi,2014-8-3,Chamonix,,,PlantCLEF2015,,,Train
+24205,467,3,Leaf,30109,Apiaceae,Eryngium,Eryngium bourgatii Gouan,liliane roubaudi,2013-8-20,Champex-lac,,,PlantCLEF2015,,,Train
+11860,468,3,Flower,967,Asteraceae,Hypochaeris,Hypochaeris radicata L.,julien champ,2012-11-26,St Leu Les brules de St Leu,-21.10527,55.38092,PlantCLEF2015,,,Train
+7137,470,3,Branch,14563,Asteraceae,Sonchus,Sonchus asper (L.) Hill,genevieve botti,2013-3-29,Marseille,,,PlantCLEF2015,,,Train
+7346,471,2,Entire,1914,Campanulaceae,Jasione,Jasione montana L.,laurent chauvel,1800-1-1,Guidel,,,PlantCLEF2015,,,Train
+39393,473,3,Flower,6448,Orchidaceae,Epipactis,Epipactis atrorubens (Hoffm.) Besser,genevieve botti,2012-7-6,Passy,,,ImageCLEF2013,6324,21064,Train
+17477,474,4,Entire,29999,Ranunculaceae,Caltha,Caltha palustris L.,thierry pernot,1800-1-1,,,,PlantCLEF2014,2265,55918,Train
+40608,475,4,Entire,30433,Fabaceae,Coronilla,Coronilla varia L.,liliane roubaudi,2013-7-8,,,,PlantCLEF2014,3462,35399,Train
+11137,476,4,LeafScan,3750,Lauraceae,Laurus,Laurus nobilis L.,pierre bonnet,2012-4-18,Montpellier,,,ImageCLEF2013,16928,40673,Train
+38218,477,3,Leaf,4832,Rosaceae,Prunus,Prunus cerasifera Ehrh.,pierre bonnet,2013-3-16,Pérols,,,PlantCLEF2014,6057,17809,Train
+14977,478,3,Entire,1914,Campanulaceae,Jasione,Jasione montana L.,alain bigou,2004-8-19,Fontrabiouse,42.63371,2.06243,PlantCLEF2014,16996,31555,Train
+32745,479,4,Leaf,14839,Fabaceae,Trifolium,Trifolium stellatum L.,emmanuel stratmains,2013-4-22,Roquebrune-sur-Argens,43.44306,6.64519,PlantCLEF2014,18028,1564,Train
+2289,480,4,LeafScan,59,Anacardiaceae,Rhus,Rhus coriaria L.,daniel barthelemy,2011-10-12,Montferrier,,,ImageCLEF2012,17195,51361,Train
+30549,481,3.5,Leaf,8677,Araceae,Arum,Arum italicum Mill.,laetitia goeau,2013-3-9,Saint-Didier-de-la-Tour,45.5645,5.50933,PlantCLEF2014,7070,48825,Train
+7914,482,4,Flower,493,Asteraceae,Bellis,Bellis perennis L.,Unknown499,2013-4-24,Marsillargues,43.66667,4.17017,PlantCLEF2014,3951,51294,Train
+24103,483,4,Flower,6345,Asparagaceae,Muscari,Muscari neglectum Guss. ex Ten.,alexis joly,2013-4-12,,43.60983,3.78683,PlantCLEF2014,16861,48325,Train
+34579,485,4,LeafScan,4840,Rosaceae,Prunus,Prunus laurocerasus L.,annick larbouillat,2013-3-3,Croissy-Beaubourg,,,ImageCLEF2013,12657,47723,Train
+5567,486,3,Flower,3279,Fagaceae,Castanea,Castanea sativa Mill.,michel pourchet,2006-6-14,Champ-sur-Drac,,,ImageCLEF2013,1683,2067,Train
+11196,488,4,LeafScan,2631,Ebenaceae,Diospyros,Diospyros kaki L.f.,pierre bonnet,2010-10-27,Montpellier,,,ImageCLEF2011,17838,12282,Train
+19726,489,5,Flower,576,Asteraceae,Cyanus,Cyanus segetum Hill,claude figureau,2004-5-23,Sournia,,,PlantCLEF2014,18158,49926,Train
+13876,490,4,Leaf,5769,Vitaceae,Parthenocissus,Parthenocissus quinquefolia (L.) Planch.,alexis joly,2013-4-21,Saint-Georges-d'Orques,43.61017,3.78483,PlantCLEF2014,6450,44449,Train
+37646,491,4,LeafScan,3846,Moraceae,Broussonetia,Broussonetia papyrifera (L.) Vent.,pierre bonnet,2010-10-8,Montpellier,,,ImageCLEF2011,4661,25757,Train
+28899,492,4,Stem,3288,Fagaceae,Quercus,Quercus ilex L.,pierre bonnet,2011-4-24,Montpellier,,,ImageCLEF2013,19365,4066,Train
+20184,493,3,Leaf,30303,Dennstaedtiaceae,Pteridium,Pteridium aquilinum (L.) Kuhn,herve goeau,2013-9-23,Valencia,39.47693,-0.3867,PlantCLEF2014,10138,15964,Train
+11574,495,3,Flower,4411,Ranunculaceae,Anemone,Anemone nemorosa L.,Unknown371,2013-4-14,Thumeries,50.48367,3.06233,PlantCLEF2014,3994,38724,Train
+25532,497,2,Flower,3942,Oleaceae,Fraxinus,Fraxinus angustifolia Vahl,pierre bonnet,2013-2-10,Montpellier,,,ImageCLEF2013,9816,51346,Train
+3752,498,3.5,Leaf,7367,Blechnaceae,Blechnum,Blechnum spicant (L.) Roth,liliane roubaudi,2012-6-20,Huelgoat,,,ImageCLEF2013,14593,54543,Train
+33667,499,3,Flower,5522,Plantaginaceae,Veronica,Veronica persica Poir.,dominique portal,2013-3-9,Courris,43.95789,2.41755,PlantCLEF2014,9759,33305,Train
+6067,500,3,Branch,12549,Fabaceae,Lotus,Lotus maritimus L.,fabienne paire,2014-9-1,Optevoz,45.75334,5.33037,PlantCLEF2015,,,Train
+8956,501,3,Entire,2629,Droseraceae,Drosera,Drosera rotundifolia L.,liliane roubaudi,2013-7-10,Saint-Gérons,,,PlantCLEF2014,14471,29534,Train
+35147,502,3,Entire,1589,Brassicaceae,Cardamine,Cardamine flexuosa With.,bertrand bui,2012-1-22,Paris,,,PlantCLEF2015,,,Train
+24073,503,3,LeafScan,42933,Rosaceae,Photinia,Photinia serrulata Lindl.,laetitia goeau,2012-4-22,Rocquencourt,,,ImageCLEF2012,15744,25513,Train
+31475,504,4,Flower,4969,Rosaceae,Rubus,Rubus ulmifolius Schott,thierry pernot,1800-1-1,,,,PlantCLEF2014,10085,54033,Train
+17816,505,3,Branch,1972,Adoxaceae,Viburnum,Viburnum opulus L.,claire sutter,2009-7-1,Hochfelden,48.74974,7.57799,PlantCLEF2014,9249,20445,Train
+23288,506,3,LeafScan,3956,Oleaceae,Olea,Olea europaea L.,pierre bonnet,2013-3-12,Montferrier-sur-Lez,,,PlantCLEF2014,10849,48748,Train
+37710,507,3,Flower,3519,Lamiaceae,Ajuga,Ajuga reptans L.,laurent petit,2011-4-30,Grouches-Luchuel,,,PlantCLEF2014,7340,31554,Train
+38669,508,4,LeafScan,2689,Euphorbiaceae,Euphorbia,Euphorbia characias L.,daniel barthelemy,2011-10-11,Puechabon,,,ImageCLEF2012,16824,17146,Train
+9120,509,3.5,Leaf,390,Asteraceae,Anacyclus,Anacyclus clavatus (Desf.) Pers.,pierre bonnet,2013-6-7,Montpellier,43.59748,3.90112,PlantCLEF2014,3508,19526,Train
+5426,510,2.67,Entire,4436,Ranunculaceae,Clematis,Clematis vitalba L.,liliane roubaudi,2012-10-7,Lyon,,,ImageCLEF2013,3792,53567,Train
+33915,511,2,Entire,1108,Asteraceae,Prenanthes,Prenanthes purpurea L.,liliane roubaudi,2014-8-6,Chamonix MontBlanc,,,PlantCLEF2015,,,Train
+18427,512,4,Flower,30004,Campanulaceae,Campanula,Campanula rotundifolia L.,paul fabre,2013-7-11,Sablières,,,PlantCLEF2014,3685,56751,Train
+2040,514,3,Flower,3865,Nyctaginaceae,Mirabilis,Mirabilis jalapa L.,malin,2014-8-26,Vinay,45.20352,5.41243,PlantCLEF2015,,,Train
+22078,515,4,Flower,14561,Asteraceae,Solidago,Solidago virgaurea L.,ans gorter,2013-8-22,15 La Tuillière,,,PlantCLEF2015,,,Train
+12969,517,4.5,Flower,1973,Adoxaceae,Viburnum,Viburnum tinus L.,daniel barthelemy,2012-3-25,Saint-Guilhem,,,ImageCLEF2013,7698,31774,Train
+41444,518,4,LeafScan,4379,Lythraceae,Punica,Punica granatum L.,pierre bonnet,2013-11-29,Montpellier,,,PlantCLEF2014,11365,33374,Train
+38290,519,3,Branch,1341,Boraginaceae,Lycopsis,Lycopsis arvensis L.,marie portas,2014-8-31,Bouray-sur-Juine,,,PlantCLEF2015,,,Train
+35053,520,4,Flower,3826,Malvaceae,Malva,Malva moschata L.,pat desnos,2013-9-29,Lavaudieu,45.26342,3.46162,PlantCLEF2014,1481,42969,Train
+37667,522,1,Branch,30318,Rhamnaceae,Rhamnus,Rhamnus pumila Turra,michel pourchet,2006-6-19,,,,PlantCLEF2015,,,Train
+32478,523,3,Entire,8688,Aspleniaceae,Asplenium,Asplenium ruta-muraria L.,genevieve botti,2014-2-9,Marseille,,,PlantCLEF2015,,,Train
+27894,524,2,Branch,55,Anacardiaceae,Pistacia,Pistacia lentiscus L.,michel pourchet,2007-5-4,Serres,,,ImageCLEF2013,15923,29391,Train
+14155,525,4,Entire,30381,Rosaceae,Sorbus,Sorbus aria (L.) Crantz,thierry pernot,1800-1-1,,,,PlantCLEF2014,4261,30350,Train
+22167,526,3,LeafScan,4379,Lythraceae,Punica,Punica granatum L.,pierre bonnet,2010-10-8,Montpellier,,,ImageCLEF2011,5897,39496,Train
+20600,527,4,Flower,2579,Caprifoliaceae,Cephalaria,Cephalaria leucantha (L.) Schrad. ex Roem. & Schult.,alain bigou,2014-8-16,Milhars,44.11579,1.87428,PlantCLEF2015,,,Train
+31523,528,2,Flower,30189,Brassicaceae,Microthlaspi,Microthlaspi perfoliatum (L.) F.K.Mey.,genevieve botti,2014-4-25,Nans-les-Pins,,,PlantCLEF2015,,,Train
+9185,529,3,Flower,8600,Orchidaceae,Anacamptis,Anacamptis pyramidalis (L.) Rich.,julien barataud,2006-6-14,Plévenon,,,ImageCLEF2013,11344,53783,Train
+4545,530,1,Branch,4721,Rosaceae,Crataegus,Crataegus monogyna Jacq.,annick larbouillat,2011-5-11,Saint-Étienne-de-Gourgas,43.77267,3.37546,PlantCLEF2014,10688,51302,Train
+9452,531,3,Leaf,3091,Fabaceae,Ononis,Ononis reclinata L.,herve goeau,2013-7-26,Sérignac-sur-Garonne,44.21801,0.48233,PlantCLEF2015,,,Train
+3849,534,3,Leaf,326,Aquifoliaceae,Ilex,Ilex aquifolium L.,pierre bonnet,2010-11-10,Montpellier,,,ImageCLEF2011,7439,31784,Train
+22009,536,3,LeafScan,5128,Salicaceae,Populus,Populus nigra L.,daniel barthelemy,2011-10-12,Montferrier,,,ImageCLEF2012,4794,42228,Train
+38448,537,3,Leaf,6365,Asparagaceae,Polygonatum,Polygonatum odoratum (Mill.) Druce,hugues tinguy,2012-4-13,Ribeauvillé,,,PlantCLEF2015,,,Train
+23101,538,4,Flower,5062,Rubiaceae,Galium,Galium odoratum (L.) Scop.,john de vos,2014-6-9,Valleraugue,44.1041,3.53979,PlantCLEF2015,,,Train
+10775,539,1,Flower,166,Apiaceae,Echinophora,Echinophora spinosa L.,liliane roubaudi,2013-8-2,Fleury,,,PlantCLEF2014,9228,29816,Train
+26381,540,3,Flower,1611,Brassicaceae,Erysimum,Erysimum cheiri (L.) Crantz,herve goeau,2014-5-2,,47.59039,2.85702,PlantCLEF2015,,,Train
+26436,541,4,LeafScan,42933,Rosaceae,Photinia,Photinia serrulata Lindl.,pierre bonnet,2011-10-20,Montpellier,,,ImageCLEF2012,606,29093,Train
+23733,542,3,Flower,5142,Salicaceae,Salix,Salix babylonica L.,pierre bonnet,2012-3-28,Montpellier,,,PlantCLEF2014,8025,19892,Train
+11911,543,4,LeafScan,1973,Adoxaceae,Viburnum,Viburnum tinus L.,annick larbouillat,2009-8-24,Roissy-en-Brie,,,ImageCLEF2011,11553,2684,Train
+19039,544,3,Entire,5604,Thymelaeaceae,Daphne,Daphne laureola L.,julien barataud,2005-6-8,Seix,,,PlantCLEF2014,9530,53248,Train
+35206,545,4,Leaf,30126,Moraceae,Ficus,Ficus carica L.,alexis joly,2013-5-9,Saint-Georges-d'Orques,43.61029,3.78474,PlantCLEF2014,8558,18389,Train
+22580,546,4,Fruit,3283,Fagaceae,Quercus,Quercus coccifera L.,pierre bonnet,2011-12-3,Salon-de-Provence,,,ImageCLEF2013,16669,28038,Train
+36430,547,3,Leaf,3846,Moraceae,Broussonetia,Broussonetia papyrifera (L.) Vent.,pierre bonnet,2011-4-12,Montpellier,,,ImageCLEF2012,9580,51516,Train
+39305,548,3,Leaf,30299,Lamiaceae,Prunella,Prunella vulgaris L.,valerie bruneau-querey,2011-7-21,Beaumesnil,49.01113,0.70553,PlantCLEF2014,18047,8057,Train
+27936,549,4,Flower,2859,Fabaceae,Coronilla,Coronilla glauca L.,christine delorme,2013-4-25,Rognes,43.66086,5.36064,PlantCLEF2014,12178,17967,Train
+8035,550,3,Entire,2689,Euphorbiaceae,Euphorbia,Euphorbia characias L.,christophe girod,2003-3-12,Site (les Pierres Blanches),,,ImageCLEF2013,5630,33262,Train
+15592,552,4,Flower,6433,Orchidaceae,Dactylorhiza,Dactylorhiza majalis (Rchb.) P.F.Hunt & Summerh.,julien barataud,2007-6-16,Fontpédrouse,,,PlantCLEF2015,,,Train
+12080,554,4,Flower,8677,Araceae,Arum,Arum italicum Mill.,pierre bonnet,2013-5-2,Villeneuve-lès-Maguelone,,,PlantCLEF2014,19230,41948,Train
+17243,556,3,Stem,4109,Platanaceae,Platanus,Platanus x hispanica Mill. ex Münchh.,gregoire duche,2011-5-26,Montpellier,43.65055,3.86544,ImageCLEF2013,9459,43263,Train
+12263,558,3,Leaf,960,Asteraceae,Homogyne,Homogyne alpina (L.) Cass.,alain bigou,2005-6-23,Auzat,42.71095,1.42685,PlantCLEF2015,,,Train
+610,559,3,Entire,8686,Aspleniaceae,Asplenium,Asplenium adiantum-nigrum L.,bertrand bui,2012-1-11,Paris,,,PlantCLEF2015,,,Train
+39089,560,3,Entire,8650,Plumbaginaceae,Armeria,Armeria maritima Willd.,marie portas,2012-9-9,Île-de-Batz,,,PlantCLEF2014,16139,25412,Train
+10790,561,3,Entire,2841,Fabaceae,Ceratonia,Ceratonia siliqua L.,patricia jargeat,2011-9-18,Amélie-les-Bains-Palalda,42.48511,2.68173,PlantCLEF2015,,,Train
+17854,562,2,Fruit,5834,Amaryllidaceae,Pancratium,Pancratium maritimum L.,florent beck,2013-6-27,Tarnos,43.57716,-1.48727,PlantCLEF2014,1229,29048,Train
+18794,563,2,Branch,3960,Oleaceae,Phillyrea,Phillyrea media L.,teima,2014-3-13,,,,PlantCLEF2015,,,Train
+15603,565,3,Flower,14899,Adoxaceae,Viburnum,Viburnum lantana L.,michel pourchet,2006-4-20,Champ-sur-Drac,,,ImageCLEF2013,11525,39200,Train
+18091,566,3,Branch,5411,Paulowniaceae,Paulownia,Paulownia tomentosa (Thunb.) Steud.,liliane roubaudi,2013-4-18,Prades-le-Lez,,,PlantCLEF2015,,,Train
+23178,567,4,Stem,3841,Meliaceae,Melia,Melia azedarach L.,pierre bonnet,2013-2-16,Lattes,,,ImageCLEF2013,12348,13338,Train
+29013,568,3,LeafScan,1972,Adoxaceae,Viburnum,Viburnum opulus L.,annick larbouillat,2011-10-23,Pontault-Combault,48.78613,2.62331,ImageCLEF2012,7800,59937,Train
+40252,570,3,Fruit,3465,Sapindaceae,Aesculus,Aesculus hippocastanum L.,vera bakic,2012-4-12,Rocquencourt,,,ImageCLEF2013,978,34995,Train
+33673,571,2.5,Fruit,2674,Ericaceae,Vaccinium,Vaccinium myrtillus L.,alain bigou,2004-8-11,Aulus-les-Bains,42.75382,1.38299,PlantCLEF2014,11319,15906,Train
+28012,572,3,Flower,3865,Nyctaginaceae,Mirabilis,Mirabilis jalapa L.,pierre bonnet,2013-9-24,"Valencia, Espagne",39.47617,-0.3866,PlantCLEF2015,,,Train
+37286,574,2,Leaf,30311,Ranunculaceae,Ranunculus,Ranunculus flammula L.,liliane roubaudi,2013-7-8,Laveissière,,,PlantCLEF2014,4216,32991,Train
+18884,575,3,Entire,30318,Rhamnaceae,Rhamnus,Rhamnus pumila Turra,florent beck,2014-4-13,Larrau,,,PlantCLEF2015,,,Train
+24737,576,3,Entire,30198,Lamiaceae,Lamium,Lamium amplexicaule L.,jean-paul hugbart,2014-3-17,Chalon-sur-Saône,46.78101,4.85873,PlantCLEF2015,,,Train
+31572,577,3,Flower,30317,Rhamnaceae,Rhamnus,Rhamnus alpina L.,michel pourchet,2007-4-27,Saou,,,PlantCLEF2015,,,Train
+32852,578,4,Fruit,1973,Adoxaceae,Viburnum,Viburnum tinus L.,jean-francois molino,2012-4-24,Montpellier,,,ImageCLEF2013,7517,17445,Train
+10915,579,3,Flower,3626,Lamiaceae,Prunella,Prunella grandiflora (L.) Schöller,catherine mahyeux,2011-5-29,Montbel,,,PlantCLEF2015,,,Train
+32860,581,3,Flower,29933,Caryophyllaceae,Agrostemma,Agrostemma githago L.,genevieve botti,2012-6-25,Yzeron,,,PlantCLEF2015,,,Train
+17990,584,4,Flower,3530,Lamiaceae,Clinopodium,Clinopodium vulgare L.,thierry pernot,1800-1-1,,,,PlantCLEF2014,14021,26135,Train
+36102,585,3,Flower,661,Asteraceae,Cichorium,Cichorium intybus L.,herve goeau,2013-8-8,Sainte-Geneviève-des-Bois,48.64801,2.33587,PlantCLEF2014,4884,5058,Train
+26464,586,3,Branch,799,Asteraceae,Galactites,Galactites tomentosus Moench,bertrand bui,2011-4-2,Martigues,43.32967,5.07465,PlantCLEF2015,,,Train
+20390,587,1,Branch,4620,Rhamnaceae,Rhamnus,Rhamnus cathartica L.,liliane pessotto,2012-9-25,Saint-Antonin-Noble-Val,44.1633,1.71318,PlantCLEF2014,8730,1101,Train
+34404,588,3,Leaf,30193,Caprifoliaceae,Knautia,Knautia arvensis (L.) Coult.,catherine mahyeux,2011-5-29,Montbel,,,PlantCLEF2014,8834,15901,Train
+5810,589,4,LeafScan,3942,Oleaceae,Fraxinus,Fraxinus angustifolia Vahl,pierre bonnet,2012-4-24,Montpellier (34),,,ImageCLEF2012,12426,44010,Train
+9571,590,4,Fruit,9954,Geraniaceae,Erodium,Erodium cicutarium (L.) L'Hér.,jean-jacques houdre,2011-9-11,Mende,,,PlantCLEF2014,14782,34053,Train
+24660,591,4,Flower,5324,Plantaginaceae,Digitalis,Digitalis purpurea L.,thierry pernot,1800-1-1,,,,PlantCLEF2014,893,36789,Train
+30462,592,3,Entire,2710,Euphorbiaceae,Euphorbia,Euphorbia helioscopia L.,eric albrecht,2013-4-11,Mauguio,,,PlantCLEF2014,5188,43572,Train
+21617,593,3,Entire,326,Aquifoliaceae,Ilex,Ilex aquifolium L.,ulric chatagnon,2014-1-15,La Valla-en-Gier,45.39732,4.55158,PlantCLEF2015,,,Train
+29442,596,3,Stem,4887,Rosaceae,Rosa,Rosa spinosissima L.,genevieve botti,2013-10-25,Bain-de-Bretagne,,,PlantCLEF2015,,,Train
+35778,597,4,Flower,30113,Euphorbiaceae,Euphorbia,Euphorbia amygdaloides L.,thierry pernot,1800-1-1,,,,PlantCLEF2014,14381,8672,Train
+27694,598,2,Entire,4411,Ranunculaceae,Anemone,Anemone nemorosa L.,pierre walther,2011-3-11,Flaxlanden,,,ImageCLEF2013,10197,20581,Train
+20222,599,4,Flower,493,Asteraceae,Bellis,Bellis perennis L.,cagna,2013-4-7,,,,PlantCLEF2014,8583,26011,Train
+21808,601,4,Fruit,4863,Rosaceae,Rosa,Rosa canina L.,thierry pernot,1800-1-1,,,,PlantCLEF2014,3590,48114,Train
+34925,602,3,Flower,5377,Plantaginaceae,Linaria,Linaria vulgaris Mill.,valerie bruneau-querey,2011-6-6,Beaumont-le-Roger,49.07839,0.78081,PlantCLEF2014,4480,53134,Train
+443,603,3,Flower,3715,Lamiaceae,Teucrium,Teucrium montanum L.,alain bigou,2005-10-15,Montricoux,44.09003,1.64025,PlantCLEF2015,,,Train
+9047,604,4,Stem,9954,Geraniaceae,Erodium,Erodium cicutarium (L.) L'Hér.,herve goeau,2013-4-25,Rocquencourt,,,PlantCLEF2014,14664,36067,Train
+6538,605,2,Flower,30040,Fabaceae,Cercis,Cercis siliquastrum L.,Unknown547,2013-4-19,Marine de Porto,42.26717,8.6935,PlantCLEF2014,6252,5380,Train
+7156,606,4,LeafScan,13623,Fagaceae,Quercus,Quercus pubescens Willd.,daniel barthelemy,2010-7-7,Pézènes-les-Mines,43.59124,3.25836,ImageCLEF2011,4556,27301,Train
+1923,607,1,Fruit,1321,Betulaceae,Alnus,Alnus glutinosa (L.) Gaertn.,michel pourchet,2006-4-11,,,,ImageCLEF2013,768,47092,Train
+6918,608,4,LeafScan,55,Anacardiaceae,Pistacia,Pistacia lentiscus L.,pierre bonnet,2010-7-7,Montpellier,43.60818,3.87945,ImageCLEF2011,6800,57064,Train
+5226,609,1,Fruit,30126,Moraceae,Ficus,Ficus carica L.,michel pourchet,2006-9-10,Champ-sur-Drac,,,PlantCLEF2014,12396,36299,Train
+39131,610,4,Flower,30590,Xanthorrhoeaceae,Asphodelus,Asphodelus ramosus L.,ans gorter,2014-2-6,Province de Cadix,36.80768,-6.40649,PlantCLEF2015,,,Train
+22727,611,5,Stem,4109,Platanaceae,Platanus,Platanus x hispanica Mill. ex Münchh.,pierre bonnet,2011-4-12,Montpellier,,,ImageCLEF2013,8241,28850,Train
+10182,613,2,Entire,1903,Campanulaceae,Campanula,Campanula scheuchzeri Vill.,alain bigou,2013-8-10,Cauterets,42.79723,-0.14136,PlantCLEF2014,6508,3576,Train
+12712,614,2,Entire,29903,Asteraceae,Taraxacum,Taraxacum officinale F.H.Wigg.,sauvages de ma rue,2012-4-10,,48.8852,2.3831,PlantCLEF2014,1674,4574,Train
+7963,615,3.8,Flower,30221,Brassicaceae,Lunaria,Lunaria annua L.,thitsana besson,2013-4-19,Mauguio,,,PlantCLEF2014,8471,25341,Train
+1448,616,3,Entire,3756,Linaceae,Linum,Linum campanulatum L.,christophe bernier,2006-5-8,Pompignan,,,ImageCLEF2013,11212,6878,Train
+9160,617,3.5,Fruit,305,Apiaceae,Tordylium,Tordylium apulum L.,liliane roubaudi,2013-4-30,Rhodes,,,PlantCLEF2015,,,Train
+2601,618,3,Entire,4756,Rosaceae,Geum,Geum rivale L.,ans gorter,2011-6-28,Vicdessos,42.76826,1.4993,PlantCLEF2015,,,Train
+13771,619,3,Flower,325,Apocynaceae,Vinca,Vinca minor L.,herve goeau,2014-3-14,Orsay,48.69689,2.19202,PlantCLEF2015,,,Train
+38695,621,1,Entire,1963,Caprifoliaceae,Lonicera,Lonicera periclymenum L.,laurent petit,2004-8-15,Lucheux,,,PlantCLEF2015,,,Train
+40057,622,3,Flower,13623,Fagaceae,Quercus,Quercus pubescens Willd.,thierry pernot,1800-1-1,,,,PlantCLEF2014,12823,34948,Train
+16032,623,2,Entire,2859,Fabaceae,Coronilla,Coronilla glauca L.,dominique remaud,2013-5-5,Vallon-Pont-d'Arc,44.40754,4.39728,PlantCLEF2014,12415,60264,Train
+15320,625,1,Branch,4074,Pittosporaceae,Pittosporum,Pittosporum tobira (Thunb.) W.T.Aiton,nexus,2013-8-3,,,,PlantCLEF2014,18881,23023,Train
+6221,628,3,Branch,3288,Fagaceae,Quercus,Quercus ilex L.,thierry pernot,1800-1-1,,,,PlantCLEF2014,6680,14830,Train
+38263,629,4,LeafScan,3282,Fagaceae,Quercus,Quercus cerris L.,annick larbouillat,2011-9-10,Nogent-sur-Vernisson,47.83701,2.7562,ImageCLEF2012,6514,3756,Train
+27345,631,1,Branch,4617,Rhamnaceae,Rhamnus,Rhamnus alaternus L.,jame lagarrigue,2012-3-14,Poulx,,,ImageCLEF2013,6879,58168,Train
+27324,632,3,Fruit,4763,Rosaceae,Crataegus,Crataegus germanica (L.) Kuntze,michel pourchet,2006-10-27,St Mesmin,,,ImageCLEF2013,13061,8156,Train
+31986,633,3.5,LeafScan,4074,Pittosporaceae,Pittosporum,Pittosporum tobira (Thunb.) W.T.Aiton,herve goeau,2011-9-6,Montferrier-sur-Lez,43.65146,3.86189,ImageCLEF2013,10898,34824,Train
+17562,634,3,Entire,6498,Orchidaceae,Ophrys,Ophrys speculum Link,bernard ginesy,2011-4-9,Marseille,43.22358,5.40437,PlantCLEF2015,,,Train
+9126,636,3,Entire,30433,Fabaceae,Coronilla,Coronilla varia L.,daniel mathieu,2007-6-10,Avignon,,,PlantCLEF2015,,,Train
+41027,637,4,LeafScan,5131,Salicaceae,Populus,Populus tremula L.,liliane roubaudi,2013-11-2,Vallorcine,,,PlantCLEF2014,18937,12115,Train
+14138,639,4,Fruit,11,Sapindaceae,Acer,Acer pseudoplatanus L.,genevieve botti,2012-5-15,Marseille,,,ImageCLEF2013,6330,378,Train
+17734,640,3,Flower,4838,Rosaceae,Prunus,Prunus dulcis (Mill.) D.A.Webb,pierre bonnet,2012-4-17,,43.59728,3.89972,PlantCLEF2014,8963,21774,Train
+2293,641,3,Branch,4616,Rhamnaceae,Paliurus,Paliurus spina-christi Mill.,liliane roubaudi,2009-6-11,Gruissan,,,ImageCLEF2013,2799,7120,Train
+39241,643,3,Entire,671,Asteraceae,Cirsium,Cirsium eriophorum (L.) Scop.,jean-pascal milcent,2013-8-18,Saint-Étienne-de-Lugdarès,44.6548,3.90068,PlantCLEF2015,,,Train
+14425,644,3,Flower,2657,Ericaceae,Erica,Erica cinerea L.,jean-luc gorremans,2013-8-3,Poullan-sur-Mer,48.10431,-4.39161,PlantCLEF2014,17576,21900,Train
+3774,645,4,Flower,6371,Asparagaceae,Prospero,Prospero autumnale (L.) Speta,thierry pernot,1800-1-1,,,,PlantCLEF2015,,,Train
+20030,647,3,Entire,6487,Orchidaceae,Ophrys,Ophrys apifera Huds.,violaine vanpouille,2010-6-2,Saint-Georges-des-Sept-Voies,,,ImageCLEF2013,7737,18766,Train
+10825,648,4,Flower,30269,Papaveraceae,Papaver,Papaver rhoeas L.,samantha bazan,2013-5-9,Salles-sur-l'Hers,,,PlantCLEF2014,14666,33757,Train
+6919,649,3,Leaf,4721,Rosaceae,Crataegus,Crataegus monogyna Jacq.,jean-jacques houdre,2012-5-17,Pégairolles-de-Buèges,43.79583,3.55,ImageCLEF2013,13092,51756,Train
+31157,651,3,Flower,3439,Geraniaceae,Geranium,Geranium sanguineum L.,catherine mahyeux,2009-5-6,Camon,,,PlantCLEF2014,6755,37358,Train
+41157,652,3,Leaf,8548,Rosaceae,Agrimonia,Agrimonia eupatoria L.,franck jullin,2012-7-7,Vergèze,43.74552,4.2105,ImageCLEF2013,9838,18946,Train
+7892,653,4,Leaf,1845,Cactaceae,Opuntia,Opuntia ficus-indica (L.) Mill.,herve goeau,2014-8-8,Almayate,36.72472,-4.14589,PlantCLEF2015,,,Train
+3641,655,3,LeafScan,7483,Altingiaceae,Liquidambar,Liquidambar styraciflua L.,annick larbouillat,2011-10-14,Roissy-en-Brie,48.79245,2.65133,ImageCLEF2012,4005,1519,Train
+34134,656,3,Flower,112,Apiaceae,Bupleurum,Bupleurum fruticosum L.,mathieu menand,2009-6-30,Tautavel,,,PlantCLEF2014,14901,47778,Train
+36328,657,2,Flower,6547,Orchidaceae,Orchis,Orchis purpurea Huds.,emmanuel stratmains,2013-4-29,Saint-Jurs,43.89829,6.19701,PlantCLEF2014,4526,42359,Train
+41610,658,1,Leaf,4969,Rosaceae,Rubus,Rubus ulmifolius Schott,david mercier,2009-9-5,Savennières,,,PlantCLEF2014,1139,8918,Train
+3021,659,3,Branch,973,Asteraceae,Inula,Inula conyza DC.,john de vos,2014-8-2,Valflaunès,43.78313,3.83188,PlantCLEF2015,,,Train
+10684,660,3,Flower,4740,Rosaceae,Filipendula,Filipendula ulmaria (L.) Maxim.,claire felloni,2012-7-17,Saint-Pavace,48.04263,0.18097,PlantCLEF2014,12980,17903,Train
+18642,661,1,Entire,3328,Gentianaceae,Blackstonia,Blackstonia imperfoliata (L.f.) Samp.,john de vos,2010-6-12,La Grande-Motte,43.5625,4.05372,PlantCLEF2015,,,Train
+18273,662,4,LeafScan,4739,Rosaceae,Eriobotrya,Eriobotrya japonica (Thunb.) Lindl.,daniel barthelemy,2010-7-21,Montpellier,43.60818,3.87945,ImageCLEF2011,17752,4633,Train
+2259,663,3,Flower,30236,Lamiaceae,Mentha,Mentha longifolia (L.) Huds.,liliane roubaudi,2012-9-30,Lyon,,,PlantCLEF2015,,,Train
+13389,664,4,Branch,14546,Brassicaceae,Sisymbrium,Sisymbrium officinale (L.) Scop.,bertrand bui,2013-4-19,Martigues,43.39967,5.34849,PlantCLEF2015,,,Train
+6300,665,4,LeafScan,7315,Ginkgoaceae,Ginkgo,Ginkgo biloba L.,pierre bonnet,2010-7-7,Montpellier,43.60818,3.87945,ImageCLEF2011,8793,9176,Train
+3870,666,4,Flower,3053,Fabaceae,Melilotus,Melilotus albus Medik.,liliane roubaudi,2014-8-17,Les Houches,,,PlantCLEF2015,,,Train
+19726,667,3,Entire,576,Asteraceae,Cyanus,Cyanus segetum Hill,claude figureau,2004-5-23,Sournia,,,PlantCLEF2014,18158,29736,Train
+38295,668,5,LeafScan,329,Araliaceae,Hedera,Hedera helix L.,pierre bonnet,2011-3-21,Montpellier,,,ImageCLEF2012,3134,42261,Train
+11046,669,3,Entire,5128,Salicaceae,Populus,Populus nigra L.,herve goeau,2012-5-27,Vienne,,,ImageCLEF2013,14455,12397,Train
+26430,670,3,Entire,3618,Lamiaceae,Origanum,Origanum vulgare L.,herve goeau,2013-7-21,Feugarolles,48.65283,2.31433,PlantCLEF2015,,,Train
+38853,672,4,LeafScan,3958,Oleaceae,Phillyrea,Phillyrea angustifolia L.,jean-francois molino,2011-10-20,Grabels,,,ImageCLEF2012,17599,60623,Train
+14713,673,3,LeafScan,3750,Lauraceae,Laurus,Laurus nobilis L.,ruddy benezet,2009-8-5,Beauvoisin,,,ImageCLEF2011,7951,47764,Train
+24001,674,3,Branch,6364,Asparagaceae,Polygonatum,Polygonatum multiflorum (L.) All.,liliane roubaudi,2014-7-5,Seyne les Alpes,,,PlantCLEF2015,,,Train
+18680,675,3,Stem,5142,Salicaceae,Salix,Salix babylonica L.,vera bakic,2012-4-12,Rocquencourt,,,PlantCLEF2014,17316,988,Train
+26579,676,3,Flower,30402,Lamiaceae,Teucrium,Teucrium scorodonia L.,elzbieta jatowt-lombaert,2012-7-11,Chantilly,49.17839,2.49372,PlantCLEF2014,1226,16916,Train
+29923,677,3,Branch,2612,Caprifoliaceae,Scabiosa,Scabiosa columbaria L.,mathieu menand,2007-5-25,Villebazy,,,PlantCLEF2015,,,Train
+22885,679,4,LeafScan,1325,Betulaceae,Betula,Betula pendula Roth,pierre bonnet,2010-8-13,Ladoye-sur-Seille,46.76248,5.67292,ImageCLEF2011,1606,9938,Train
+13587,680,3,Leaf,30056,Cornaceae,Cornus,Cornus sanguinea L.,herve goeau,2013-8-20,Rocquencourt,48.8334,2.10547,PlantCLEF2014,14163,9545,Train
+24094,681,4,LeafScan,5124,Salicaceae,Populus,Populus alba L.,daniel barthelemy,2011-10-12,Montferrier,,,ImageCLEF2012,3167,57240,Train
+25929,682,3,Leaf,11,Sapindaceae,Acer,Acer pseudoplatanus L.,herve goeau,2013-6-13,Sainte-Geneviève-des-Bois,48.64654,2.31736,PlantCLEF2014,11920,11637,Train
+17831,683,3,LeafScan,30040,Fabaceae,Cercis,Cercis siliquastrum L.,ruddy benezet,2009-8-25,Beauvoisin,,,ImageCLEF2011,11896,31853,Train
+39728,685,3,Flower,4969,Rosaceae,Rubus,Rubus ulmifolius Schott,herve goeau,2013-7-22,Fourques-sur-Garonne,44.45433,0.149,PlantCLEF2014,13862,26273,Train
+7529,686,3,Fruit,1966,Caprifoliaceae,Lonicera,Lonicera xylosteum L.,mathieu menand,2009-8-13,Charmensac,,,PlantCLEF2014,8714,33125,Train
+36327,687,4,LeafScan,326,Aquifoliaceae,Ilex,Ilex aquifolium L.,pierre bonnet,2010-7-21,Montpellier,43.60818,3.87945,ImageCLEF2011,13664,22425,Train
+10773,688,3,Flower,1842,Buxaceae,Buxus,Buxus sempervirens L.,daniel barthelemy,2013-3-31,Puéchabon,,,PlantCLEF2014,3475,42968,Train
+35897,689,3,Entire,4088,Plantaginaceae,Plantago,Plantago coronopus L.,genevieve botti,2012-6-21,Plouescat,,,PlantCLEF2015,,,Train
+7332,691,3,Flower,3885,Onagraceae,Epilobium,Epilobium angustifolium L.,gregoire duche,2009-8-16,Châteauneuf-de-Randon,,,ImageCLEF2013,9263,24725,Train
+12091,692,2,Flower,7060,Poaceae,Phleum,Phleum pratense L.,thierry pernot,1800-1-1,,,,PlantCLEF2015,,,Train
+5493,694,4,Flower,1111,Asteraceae,Pulicaria,Pulicaria dysenterica (L.) Bernh.,liliane roubaudi,2013-9-13,Fleury,,,PlantCLEF2014,567,27183,Train
+20504,695,3,LeafScan,30325,Lamiaceae,Rosmarinus,Rosmarinus officinalis L.,pierre bonnet,2013-5-6,Montpellier,,,PlantCLEF2014,18904,54793,Train
+23466,697,2,Entire,4863,Rosaceae,Rosa,Rosa canina L.,alain bigou,2012-6-21,Jujols,42.57105,2.29537,ImageCLEF2013,7219,23589,Train
+15950,698,4,Flower,9898,Boraginaceae,Echium,Echium vulgare L.,genevieve botti,2013-4-23,Marseille,,,PlantCLEF2014,5446,53428,Train
+38635,699,4,Fruit,5377,Plantaginaceae,Linaria,Linaria vulgaris Mill.,liliane roubaudi,2014-10-16,Fécamp,,,PlantCLEF2015,,,Train
+30612,700,2,Branch,9945,Asteraceae,Erigeron,Erigeron annuus (L.) Desf.,jean-jacques houdre,2011-11-27,Unias,45.60833,4.23722,PlantCLEF2014,16605,25169,Train
